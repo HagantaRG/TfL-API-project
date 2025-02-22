@@ -1,0 +1,34 @@
+[
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Jubilee Line: Minor delays due to train cancellations. ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "minorDelays"
+    }
+]
+[
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "routeInfo",
+        "categoryDescription": "RealTime",
+        "description": "London Overground: Severe delays between Stratford and Richmond /Clapham Junction due to a faulty level crossing at South Acton. GOOD SERVICE on all other routes. ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "severeDelays"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "routeInfo",
+        "categoryDescription": "RealTime",
+        "description": "London Overground: Severe delays between Stratford and Richmond /Clapham Junction due to a faulty level crossing at South Acton. GOOD SERVICE on all other routes. ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "severeDelays"
+    }
+]

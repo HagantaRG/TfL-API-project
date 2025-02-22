@@ -1,0 +1,946 @@
+<ROOT>
+    <Time TimeStamp="2024/11/21 23:11:00" />
+    <S Code="ACT" N="Acton Town.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="055" T="13" D="116" C="0:30" L="Approaching Acton Town" DE="Ealing Broadway" AT="" DT="23:10:52" />
+            <T S="020" T="15" D="116" C="10:00" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0" />
+        <P N="Eastbound - Platform 3" Code="1" Next="0" />
+        <P N="Eastbound - Platform 4" Code="1" Next="0">
+            <T S="125" T="13" D="432" C="2:30" L="Between Ealing Common and Acton Town" DE="Tower Hill" AT="" DT="23:10:48" />
+        </P>
+    </S>
+    <S Code="ALE" N="Aldgate East.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="025" T="11" D="374" C="2:00" L="At Whitechapel Platform 2" DE="Richmond" AT="23:12:55" DT="23:13:26" />
+            <T S="277" T="16" D="0" C="5:00" L="Approaching Stepney Green Platform 1" DE="Hammersmith" AT="23:15:55" DT="23:16:26" />
+            <T S="057" T="13" D="374" C="12:00" L="At West Ham Platform 1" DE="Richmond" AT="23:22:55" DT="23:23:26" />
+            <T S="261" T="15" D="0" C="15:00" L="Between Upton Park and Plaistow" DE="Hammersmith" AT="23:25:55" DT="23:26:37" />
+            <T S="032" T="11" D="116" C="17:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:27:55" DT="23:28:26" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="035" T="12" D="440" C="0:30" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:11:20" DT="23:11:35" />
+            <T S="266" T="14" D="0" C="1:30" L="Between Liverpool Street and Aldgate East" DE="Barking" AT="23:12:15" DT="23:13:27" />
+            <T S="267" T="16" D="0" C="11:00" L="Between Kings Cross St. Pancras and Farringdon" DE="Upminster" AT="23:22:15" DT="23:23:27" />
+            <T S="053" T="15" D="440" C="13:00" L="Left Westminster" DE="Upminster" AT="23:24:07" DT="23:25:00" />
+            <T S="011" T="10" D="69" C="15:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:25:40" DT="23:26:14" />
+            <T S="050" T="12" D="440" C="16:00" L="Between Victoria and St James's Park" DE="Upminster" AT="" DT="23:10:56" />
+            <T S="012" T="11" D="440" C="20:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+            <T S="013" T="14" D="69" C="28:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="BKG" N="Barking.">
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="006" T="13" D="440" C="2:00" L="Between East Ham and Barking" DE="Upminster" AT="23:12:53" DT="23:13:26" />
+            <T S="264" T="14" D="0" C="4:00" L="At East Ham Platform 2" DE="Check Front of Train" AT="23:14:50" DT="23:15:56" />
+            <T S="061" T="12" D="440" C="12:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:22:50" DT="23:23:26" />
+            <T S="033" T="10" D="69" C="13:00" L="At Plaistow Platform 2" DE="Barking" AT="" DT="23:10:58" />
+            <T S="171" T="12" D="0" C="14:00" L="At Bow Road Platform 2" DE="Check Front of Train" AT="23:24:50" DT="23:25:56" />
+            <T S="035" T="12" D="0" C="22:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:32:50" DT="23:33:26" />
+            <T S="007" T="12" D="69" C="26:00" L="At Stepney Green Platform 2" DE="Barking" AT="" DT="23:10:50" />
+        </P>
+        <P N="Westbound - Platform 3" Code="0" Next="0">
+            <T S="044" T="13" D="116" C="-" L="At Platform" DE="Ealing Broadway" AT="" DT="23:16:26" />
+            <T S="033" T="11" D="0" C="7:00" L="At Plaistow Platform 2" DE="Check Front of Train" AT="23:18:14" DT="23:26:56" />
+            <T S="007" T="13" D="0" C="17:00" L="At Stepney Green Platform 2" DE="Check Front of Train" AT="23:28:08" DT="23:37:56" />
+        </P>
+        <P N="Westbound - Platform 6" Code="0" Next="0">
+            <T S="001" T="11" D="374" C="-" L="At Platform" DE="Richmond" AT="" DT="23:11:26" />
+            <T S="262" T="15" D="0" C="2:30" L="Barking Sidings" DE="Hammersmith" AT="23:13:23" DT="23:14:26" />
+            <T S="026" T="11" D="374" C="10:00" L="At Dagenham East Platform 1" DE="Richmond" AT="23:21:25" DT="23:21:56" />
+            <T S="263" T="15" D="0" C="13:00" L="Barking Sidings" DE="Hammersmith" AT="23:23:54" DT="23:24:26" />
+            <T S="115" T="1" D="0" C="20:00" L="Upminster area" DE="Richmond" AT="23:31:25" DT="23:31:56" />
+        </P>
+    </S>
+    <S Code="BCT" N="Barons Court.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="062" T="17" D="374" C="4:00" L="At Earls Court Platform 4" DE="Richmond" AT="23:14:56" DT="23:15:11" />
+            <T S="024" T="11" D="0" C="9:00" L="At Gloucester Road Platform 1" DE="Ealing Broadway" AT="23:20:06" DT="23:20:21" />
+            <T S="021" T="11" D="0" C="14:00" L="At Victoria Platform 1" DE="Richmond" AT="23:25:06" DT="23:25:21" />
+            <T S="015" T="15" D="0" C="19:00" L="At Westminster Platform 1" DE="Ealing Broadway" AT="23:30:06" DT="23:30:21" />
+            <T S="022" T="11" D="0" C="24:00" L="Left Mansion House" DE="Richmond" AT="23:35:06" DT="23:35:21" />
+        </P>
+        <P N="Eastbound - Platform 4" Code="1" Next="0">
+            <T S="104" T="9" D="440" C="0:30" L="Between Hammersmith and Barons Court" DE="Upminster" AT="23:11:11" DT="23:11:41" />
+            <T S="063" T="14" D="440" C="5:00" L="At Stamford Brook Platform 3" DE="Upminster" AT="23:16:11" DT="23:16:41" />
+            <T S="017" T="15" D="510" C="9:00" L="" DE="Check Front of Train" AT="" DT="23:10:13" />
+            <T S="125" T="13" D="432" C="14:00" L="Between Ealing Common and Acton Town" DE="Tower Hill" AT="" DT="23:10:48" />
+            <T S="054" T="16" D="0" C="25:00" L="At Ealing Broadway Platform 8" DE="Upminster" AT="23:36:11" DT="23:36:41" />
+        </P>
+    </S>
+    <S Code="BEC" N="Becontree.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="026" T="11" D="374" C="5:00" L="At Dagenham East Platform 1" DE="Richmond" AT="23:16:03" DT="23:16:27" />
+            <T S="115" T="1" D="0" C="15:00" L="Upminster area" DE="Richmond" AT="23:26:03" DT="23:26:27" />
+            <T S="041" T="15" D="0" C="23:00" L="At Upminster Platform 3" DE="Ealing Broadway" AT="23:34:03" DT="23:34:27" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="701" T="500" D="0" C="5:00" L="Barking Sidings" DE="Check Front of Train" AT="23:15:50" DT="23:16:05" />
+            <T S="006" T="13" D="440" C="8:00" L="Between East Ham and Barking" DE="Upminster" AT="23:19:11" DT="23:19:26" />
+            <T S="061" T="12" D="440" C="17:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:27:57" DT="23:28:12" />
+            <T S="035" T="12" D="0" C="27:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:37:57" DT="23:38:12" />
+        </P>
+    </S>
+    <S Code="BLF" N="Blackfriars.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="047" T="17" D="500" C="-" L="At Platform" DE="Wimbledon" AT="" DT="23:10:56" />
+            <T S="022" T="11" D="374" C="1:00" L="Left Mansion House" DE="Richmond" AT="23:11:36" DT="23:11:53" />
+            <T S="215" T="27" D="0" C="3:00" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:13:46" DT="23:14:11" />
+            <T S="030" T="13" D="116" C="5:00" L="Left Tower Hill" DE="Ealing Broadway" AT="23:16:16" DT="23:16:41" />
+            <T S="051" T="17" D="0" C="8:00" L="At Tower Hill Platform 2" DE="Wimbledon" AT="23:18:46" DT="23:19:11" />
+            <T S="025" T="11" D="374" C="10:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+            <T S="057" T="13" D="374" C="23:00" L="At West Ham Platform 1" DE="Richmond" AT="" DT="23:10:50" />
+            <T S="032" T="11" D="116" C="30:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="207" T="28" D="0" C="2:30" L="At Embankment Platform 2" DE="Circle Line" AT="23:13:24" DT="23:13:39" />
+            <T S="053" T="15" D="440" C="4:00" L="Left Westminster" DE="Upminster" AT="23:14:31" DT="23:14:46" />
+            <T S="011" T="10" D="69" C="5:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:15:56" DT="23:16:11" />
+            <T S="050" T="12" D="440" C="6:00" L="Between Victoria and St James's Park" DE="Upminster" AT="23:17:26" DT="23:17:41" />
+            <T S="012" T="11" D="440" C="11:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="23:21:35" DT="23:21:56" />
+            <T S="123" T="11" D="432" C="16:00" L="At South Kensington Platform 5" DE="Tower Hill" AT="" DT="23:10:50" />
+            <T S="013" T="14" D="69" C="20:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="BWR" N="Bow Road.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="057" T="13" D="374" C="4:00" L="At West Ham Platform 1" DE="Richmond" AT="23:14:59" DT="23:15:27" />
+            <T S="261" T="15" D="0" C="7:00" L="Between Upton Park and Plaistow" DE="Hammersmith" AT="23:17:59" DT="23:18:27" />
+            <T S="032" T="11" D="116" C="9:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:19:59" DT="23:20:27" />
+            <T S="001" T="11" D="374" C="14:00" L="At Barking Platform 6" DE="Richmond" AT="23:24:59" DT="23:25:27" />
+            <T S="262" T="15" D="0" C="17:00" L="Barking Sidings" DE="Hammersmith" AT="23:27:59" DT="23:28:27" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="171" T="12" D="0" C="0:30" L="At Bow Road Platform 2" DE="Barking" AT="" DT="23:10:57" />
+            <T S="007" T="12" D="69" C="3:30" L="At Stepney Green Platform 2" DE="Barking" AT="23:14:05" DT="23:14:27" />
+            <T S="035" T="12" D="440" C="8:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:18:35" DT="23:18:57" />
+            <T S="266" T="14" D="0" C="10:00" L="Between Liverpool Street and Aldgate East" DE="Barking" AT="23:20:36" DT="23:20:57" />
+            <T S="267" T="16" D="0" C="20:00" L="Between Kings Cross St. Pancras and Farringdon" DE="Upminster" AT="23:30:36" DT="23:30:57" />
+            <T S="053" T="15" D="440" C="22:00" L="Left Westminster" DE="Upminster" AT="" DT="23:10:56" />
+            <T S="011" T="10" D="69" C="23:00" L="Between St James's Park and Westminster" DE="Barking" AT="" DT="23:10:56" />
+            <T S="050" T="12" D="440" C="25:00" L="Between Victoria and St James's Park" DE="Upminster" AT="" DT="23:10:56" />
+            <T S="012" T="11" D="440" C="29:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+        </P>
+    </S>
+    <S Code="BBB" N="Bromley-by-Bow.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="057" T="13" D="374" C="2:00" L="At West Ham Platform 1" DE="Richmond" AT="23:12:47" DT="23:13:02" />
+            <T S="261" T="15" D="0" C="5:00" L="Between Upton Park and Plaistow" DE="Hammersmith" AT="23:15:47" DT="23:16:02" />
+            <T S="032" T="11" D="116" C="7:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:17:47" DT="23:18:02" />
+            <T S="001" T="11" D="374" C="12:00" L="At Barking Platform 6" DE="Richmond" AT="23:22:47" DT="23:23:02" />
+            <T S="262" T="15" D="0" C="15:00" L="Barking Sidings" DE="Hammersmith" AT="23:25:47" DT="23:26:02" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="061" T="12" D="440" C="-" L="At Platform" DE="Upminster" AT="" DT="23:10:56" />
+            <T S="171" T="12" D="0" C="2:00" L="At Bow Road Platform 2" DE="Barking" AT="23:12:54" DT="23:13:09" />
+            <T S="007" T="12" D="69" C="5:00" L="At Stepney Green Platform 2" DE="Barking" AT="23:16:24" DT="23:16:39" />
+            <T S="035" T="12" D="440" C="10:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:20:54" DT="23:21:09" />
+            <T S="266" T="14" D="0" C="12:00" L="Between Liverpool Street and Aldgate East" DE="Barking" AT="23:22:54" DT="23:23:09" />
+            <T S="053" T="15" D="440" C="24:00" L="Left Westminster" DE="Upminster" AT="" DT="23:10:56" />
+            <T S="011" T="10" D="69" C="26:00" L="Between St James's Park and Westminster" DE="Barking" AT="" DT="23:10:56" />
+            <T S="050" T="12" D="440" C="28:00" L="Between Victoria and St James's Park" DE="Upminster" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="CST" N="Cannon Street.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="215" T="27" D="0" C="0:30" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:10:57" DT="23:11:13" />
+            <T S="030" T="13" D="116" C="2:30" L="Left Tower Hill" DE="Ealing Broadway" AT="23:13:17" DT="23:13:42" />
+            <T S="051" T="17" D="0" C="5:00" L="At Tower Hill Platform 2" DE="Wimbledon" AT="23:15:47" DT="23:16:12" />
+            <T S="025" T="11" D="374" C="7:00" L="At Whitechapel Platform 2" DE="Richmond" AT="23:18:17" DT="23:18:42" />
+            <T S="216" T="27" D="0" C="10:00" L="At Moorgate Platform 1" DE="Circle Line" AT="23:20:47" DT="23:21:12" />
+            <T S="057" T="13" D="374" C="21:00" L="At West Ham Platform 1" DE="Richmond" AT="" DT="23:10:50" />
+            <T S="032" T="11" D="116" C="27:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="064" T="18" D="432" C="1:30" L="At Mansion House Platform 3" DE="Tower Hill" AT="23:12:15" DT="23:12:41" />
+            <T S="207" T="28" D="0" C="5:00" L="At Embankment Platform 2" DE="Circle Line" AT="23:16:15" DT="23:16:41" />
+            <T S="053" T="15" D="440" C="6:00" L="Left Westminster" DE="Upminster" AT="23:17:04" DT="23:17:25" />
+            <T S="011" T="10" D="69" C="7:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:18:29" DT="23:18:50" />
+            <T S="050" T="12" D="440" C="9:00" L="Between Victoria and St James's Park" DE="Upminster" AT="23:19:59" DT="23:20:20" />
+            <T S="012" T="11" D="440" C="15:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+            <T S="123" T="11" D="432" C="18:00" L="At South Kensington Platform 5" DE="Tower Hill" AT="" DT="23:10:50" />
+            <T S="013" T="14" D="69" C="23:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="CHP" N="Chiswick Park.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="020" T="15" D="116" C="8:00" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="125" T="13" D="432" C="5:00" L="Between Ealing Common and Acton Town" DE="Tower Hill" AT="" DT="23:10:48" />
+        </P>
+    </S>
+    <S Code="DGE" N="Dagenham East.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="026" T="11" D="374" C="-" L="At Platform" DE="Richmond" AT="23:11:15" DT="23:11:56" />
+            <T S="115" T="1" D="0" C="11:00" L="Upminster area" DE="Richmond" AT="23:21:46" DT="23:22:01" />
+            <T S="041" T="15" D="0" C="19:00" L="At Upminster Platform 3" DE="Ealing Broadway" AT="23:29:39" DT="23:29:56" />
+            <T S="106" T="8" D="0" C="27:00" L="Between Elm Park and Hornchurch" DE="Check Front of Train" AT="23:38:24" DT="23:38:39" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="005" T="10" D="440" C="1:00" L="Between Dagenham Heathway and Dagenham East" DE="Upminster" AT="23:11:38" DT="23:12:27" />
+            <T S="701" T="500" D="0" C="9:00" L="Barking Sidings" DE="Check Front of Train" AT="23:20:15" DT="23:20:30" />
+            <T S="006" T="13" D="440" C="13:00" L="Between East Ham and Barking" DE="Upminster" AT="23:23:48" DT="23:24:03" />
+            <T S="061" T="12" D="0" C="21:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:32:16" DT="23:32:31" />
+        </P>
+        <P N="Westbound - Platform 3" Code="0" Next="0" />
+    </S>
+    <S Code="DGH" N="Dagenham Heathway.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="026" T="11" D="374" C="3:00" L="At Dagenham East Platform 1" DE="Richmond" AT="23:13:45" DT="23:14:00" />
+            <T S="115" T="1" D="0" C="13:00" L="Upminster area" DE="Richmond" AT="23:23:50" DT="23:24:05" />
+            <T S="041" T="15" D="0" C="21:00" L="At Upminster Platform 3" DE="Ealing Broadway" AT="23:31:45" DT="23:32:00" />
+            <T S="106" T="8" D="0" C="29:00" L="Between Elm Park and Hornchurch" DE="Check Front of Train" AT="23:40:28" DT="23:40:43" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="701" T="500" D="0" C="7:00" L="Barking Sidings" DE="Check Front of Train" AT="23:17:55" DT="23:18:10" />
+            <T S="006" T="13" D="440" C="10:00" L="Between East Ham and Barking" DE="Upminster" AT="23:21:16" DT="23:21:31" />
+            <T S="061" T="12" D="0" C="19:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:30:02" DT="23:30:17" />
+            <T S="035" T="12" D="0" C="29:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:40:02" DT="23:40:17" />
+        </P>
+    </S>
+    <S Code="EBY" N="Ealing Broadway.">
+        <P N="Eastbound - Platform 7" Code="1" Next="0">
+            <T S="055" T="13" D="116" C="7:00" L="Approaching Acton Town" DE="Ealing Broadway" AT="" DT="23:10:52" />
+            <T S="020" T="15" D="116" C="18:00" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+        </P>
+        <P N="Eastbound - Platform 8" Code="1" Next="0">
+            <T S="054" T="16" D="440" C="-" L="At Platform" DE="Upminster" AT="" DT="23:09:01" />
+            <T S="055" T="13" D="116" C="7:00" L="Approaching Acton Town" DE="Ealing Broadway" AT="" DT="23:10:52" />
+            <T S="020" T="15" D="116" C="18:00" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+        </P>
+        <P N="Eastbound - Platform 9" Code="1" Next="0">
+            <T S="055" T="13" D="116" C="7:00" L="Approaching Acton Town" DE="Ealing Broadway" AT="" DT="23:10:52" />
+            <T S="020" T="15" D="116" C="17:00" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="ECM" N="Ealing Common.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="055" T="13" D="116" C="4:00" L="Approaching Acton Town" DE="Ealing Broadway" AT="" DT="23:10:52" />
+            <T S="020" T="15" D="116" C="14:00" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0" />
+    </S>
+    <S Code="ECT" N="Earls Court.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="013" T="14" D="69" C="0:30" L="Approaching Earls Court Platform 1" DE="Barking" AT="23:11:13" DT="23:11:34" />
+            <T S="104" T="9" D="0" C="5:00" L="Between Hammersmith and Barons Court" DE="Upminster" AT="23:15:43" DT="23:16:04" />
+            <T S="063" T="14" D="0" C="10:00" L="At Stamford Brook Platform 3" DE="Upminster" AT="23:20:43" DT="23:21:04" />
+            <T S="054" T="16" D="0" C="30:00" L="At Ealing Broadway Platform 8" DE="Upminster" AT="23:40:43" DT="23:41:04" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="124" T="11" D="0" C="1:30" L="Left West Brompton" DE="Tower Hill" AT="23:12:22" DT="23:13:26" />
+        </P>
+        <P N="Westbound - Platform 3" Code="0" Next="0">
+            <T S="024" T="11" D="0" C="1:30" L="At Gloucester Road Platform 1" DE="Ealing Broadway" AT="23:12:25" DT="23:15:56" />
+            <T S="021" T="11" D="0" C="7:00" L="At Victoria Platform 1" DE="Richmond" AT="23:18:17" DT="23:20:56" />
+            <T S="015" T="15" D="0" C="12:00" L="At Westminster Platform 1" DE="Ealing Broadway" AT="23:22:42" DT="23:25:56" />
+            <T S="022" T="11" D="0" C="17:00" L="Left Mansion House" DE="Richmond" AT="23:27:42" DT="23:30:56" />
+            <T S="030" T="13" D="0" C="22:00" L="Left Tower Hill" DE="Ealing Broadway" AT="23:32:42" DT="23:35:56" />
+        </P>
+        <P N="Westbound - Platform 4" Code="0" Next="0">
+            <T S="062" T="17" D="374" C="-" L="At Platform" DE="Richmond" AT="" DT="23:10:56" />
+            <T S="073" T="26" D="500" C="1:30" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="23:12:10" DT="23:12:33" />
+            <T S="103" T="7" D="0" C="5:00" L="Between Sloane Square and South Kensington" DE="Wimbledon" AT="23:15:39" DT="23:16:02" />
+            <T S="065" T="15" D="0" C="6:00" L="At Sloane Square Platform 1" DE="Wimbledon" AT="23:17:25" DT="23:17:48" />
+            <T S="074" T="26" D="500" C="9:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="23:19:35" DT="23:21:41" />
+        </P>
+    </S>
+    <S Code="EHM" N="East Ham.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="001" T="11" D="374" C="4:00" L="At Barking Platform 6" DE="Richmond" AT="23:14:42" DT="23:14:57" />
+            <T S="262" T="15" D="0" C="7:00" L="Barking Sidings" DE="Hammersmith" AT="23:17:42" DT="23:17:57" />
+            <T S="044" T="13" D="0" C="9:00" L="At Barking Platform 3" DE="Ealing Broadway" AT="23:19:36" DT="23:19:56" />
+            <T S="026" T="11" D="374" C="14:00" L="At Dagenham East Platform 1" DE="Richmond" AT="23:25:12" DT="23:25:27" />
+            <T S="263" T="15" D="0" C="17:00" L="Barking Sidings" DE="Hammersmith" AT="23:27:42" DT="23:27:57" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="264" T="14" D="0" C="0:30" L="At East Ham Platform 2" DE="Barking" AT="23:10:57" DT="23:11:26" />
+            <T S="033" T="10" D="69" C="4:00" L="At Plaistow Platform 2" DE="Barking" AT="23:14:47" DT="23:15:02" />
+            <T S="061" T="12" D="440" C="8:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:19:01" DT="23:19:26" />
+            <T S="171" T="12" D="0" C="10:00" L="At Bow Road Platform 2" DE="Barking" AT="23:21:01" DT="23:21:26" />
+            <T S="007" T="12" D="69" C="14:00" L="At Stepney Green Platform 2" DE="Barking" AT="23:24:31" DT="23:24:56" />
+            <T S="035" T="12" D="440" C="25:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="EPY" N="East Putney.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="070" T="28" D="1025" C="7:00" L="Approaching Wimbledon" DE="City (via Victoria)" AT="" DT="23:10:23" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="072" T="30" D="500" C="0:30" L="Approaching East Putney" DE="Wimbledon" AT="" DT="23:10:43" />
+            <T S="073" T="26" D="500" C="13:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="18:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+    </S>
+    <S Code="ERD" N="Edgware Road (H &amp; C).">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="270" T="16" D="0" C="1:30" L="At Paddington (Suburban) Platform 16" DE="Upminster" AT="23:12:22" DT="23:12:43" />
+            <T S="200" T="29" D="0" C="6:00" L="Left Westbourne Park" DE="Circle Line" AT="23:17:11" DT="23:17:32" />
+            <T S="271" T="14" D="0" C="11:00" L="Left Wood Lane" DE="West Ham" AT="23:21:52" DT="23:22:13" />
+            <T S="201" T="27" D="0" C="16:00" L="Left Hammersmith" DE="Circle Line" AT="23:26:52" DT="23:27:13" />
+            <T S="272" T="17" D="0" C="21:00" L="At Hammersmith Platform 3" DE="Barking" AT="23:31:52" DT="23:32:13" />
+        </P>
+        <P N="Platform 2" Code="1" Next="1">
+            <T S="075" T="27" D="147" C="4:00" L="At Bayswater Platform 2" DE="Check Front of Train" AT="23:14:41" DT="23:18:38" />
+            <T S="076" T="27" D="147" C="9:00" L="At High Street Kensington Platform 2" DE="Check Front of Train" AT="23:19:59" DT="23:25:12" />
+        </P>
+        <P N="Platform 3" Code="1" Next="0">
+            <T S="212" T="29" D="0" C="3:30" L="At Paddington Platform 2" DE="Circle Line" AT="23:14:17" DT="23:20:12" />
+            <T S="213" T="28" D="0" C="13:00" L="Left Gloucester Road" DE="Circle Line" AT="23:24:17" DT="23:30:12" />
+            <T S="214" T="30" D="0" C="23:00" L="At St James's Park Platform 1" DE="Circle Line" AT="23:34:17" DT="23:40:12" />
+        </P>
+        <P N="Westbound - Platform 4" Code="0" Next="0">
+            <T S="204" T="28" D="0" C="2:00" L="At Baker Street Platform 6" DE="Hammersmith" AT="23:12:39" DT="23:13:42" />
+            <T S="275" T="15" D="0" C="7:00" L="Between Kings Cross St. Pancras and Euston Square" DE="Hammersmith" AT="23:17:49" DT="23:19:22" />
+            <T S="205" T="29" D="0" C="12:00" L="At Barbican Platform 2" DE="Hammersmith" AT="23:22:49" DT="23:23:42" />
+            <T S="276" T="16" D="0" C="17:00" L="At Liverpool Street Platform 2" DE="Hammersmith" AT="23:27:49" DT="23:28:42" />
+            <T S="206" T="28" D="0" C="22:00" L="At Tower Hill Platform 3" DE="Hammersmith" AT="23:32:49" DT="23:33:42" />
+        </P>
+    </S>
+    <S Code="EPK" N="Elm Park.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="115" T="1" D="0" C="8:00" L="Upminster area" DE="Richmond" AT="23:18:59" DT="23:19:14" />
+            <T S="041" T="15" D="0" C="16:00" L="At Upminster Platform 3" DE="Ealing Broadway" AT="23:26:52" DT="23:27:07" />
+            <T S="106" T="8" D="0" C="25:00" L="Between Elm Park and Hornchurch" DE="Check Front of Train" AT="23:35:37" DT="23:35:52" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="005" T="10" D="440" C="4:30" L="Between Dagenham Heathway and Dagenham East" DE="Upminster" AT="23:15:02" DT="23:15:26" />
+            <T S="701" T="500" D="0" C="12:00" L="Barking Sidings" DE="Check Front of Train" AT="23:22:59" DT="23:23:14" />
+            <T S="006" T="13" D="440" C="16:00" L="Between East Ham and Barking" DE="Upminster" AT="23:26:32" DT="23:26:47" />
+            <T S="061" T="12" D="0" C="24:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:35:06" DT="23:35:26" />
+        </P>
+    </S>
+    <S Code="EMB" N="Embankment.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="047" T="17" D="500" C="3:30" L="At Blackfriars Platform 1" DE="Wimbledon" AT="23:14:03" DT="23:14:20" />
+            <T S="022" T="11" D="374" C="4:30" L="Left Mansion House" DE="Richmond" AT="23:15:30" DT="23:15:47" />
+            <T S="215" T="27" D="0" C="6:00" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:17:27" DT="23:17:44" />
+            <T S="030" T="13" D="116" C="9:00" L="Left Tower Hill" DE="Ealing Broadway" AT="23:19:57" DT="23:20:14" />
+            <T S="051" T="17" D="0" C="11:00" L="At Tower Hill Platform 2" DE="Wimbledon" AT="23:22:27" DT="23:22:44" />
+            <T S="025" T="11" D="374" C="14:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+            <T S="057" T="13" D="374" C="27:00" L="At West Ham Platform 1" DE="Richmond" AT="" DT="23:10:50" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="207" T="28" D="0" C="0:30" L="At Embankment Platform 2" DE="Circle Line" AT="" DT="23:10:55" />
+            <T S="053" T="15" D="440" C="1:00" L="Left Westminster" DE="Upminster" AT="23:11:44" DT="23:12:02" />
+            <T S="011" T="10" D="69" C="2:30" L="Between St James's Park and Westminster" DE="Barking" AT="23:13:12" DT="23:13:30" />
+            <T S="050" T="12" D="440" C="4:00" L="Between Victoria and St James's Park" DE="Upminster" AT="23:14:42" DT="23:15:00" />
+            <T S="012" T="11" D="440" C="7:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="23:18:29" DT="23:18:57" />
+            <T S="123" T="11" D="432" C="12:00" L="At South Kensington Platform 5" DE="Tower Hill" AT="" DT="23:10:50" />
+            <T S="013" T="14" D="69" C="17:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="FBY" N="Fulham Broadway.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="073" T="26" D="500" C="4:30" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="23:15:08" DT="23:15:23" />
+            <T S="103" T="7" D="0" C="8:00" L="Between Sloane Square and South Kensington" DE="Wimbledon" AT="23:18:37" DT="23:18:52" />
+            <T S="065" T="15" D="0" C="10:00" L="At Sloane Square Platform 1" DE="Wimbledon" AT="23:20:38" DT="23:20:53" />
+            <T S="074" T="26" D="500" C="14:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="23:24:56" DT="23:25:11" />
+            <T S="047" T="17" D="0" C="19:00" L="At Blackfriars Platform 1" DE="Wimbledon" AT="23:29:56" DT="23:30:11" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="077" T="27" D="432" C="3:30" L="Between Putney Bridge and Parsons Green" DE="Tower Hill" AT="" DT="23:10:48" />
+            <T S="070" T="28" D="1025" C="14:00" L="Approaching Wimbledon" DE="City (via Victoria)" AT="" DT="23:10:23" />
+        </P>
+    </S>
+    <S Code="GRD" N="Gloucester Road.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="024" T="11" D="116" C="-" L="At Platform" DE="Ealing Broadway" AT="" DT="23:11:11" />
+            <T S="103" T="7" D="500" C="3:00" L="Between Sloane Square and South Kensington" DE="Wimbledon" AT="23:13:46" DT="23:14:01" />
+            <T S="065" T="15" D="500" C="4:30" L="At Sloane Square Platform 1" DE="Wimbledon" AT="23:15:17" DT="23:15:32" />
+            <T S="021" T="11" D="374" C="6:00" L="At Victoria Platform 1" DE="Richmond" AT="23:16:48" DT="23:17:03" />
+            <T S="015" T="15" D="116" C="9:00" L="At Westminster Platform 1" DE="Ealing Broadway" AT="23:20:27" DT="23:21:11" />
+            <T S="047" T="17" D="500" C="18:00" L="At Blackfriars Platform 1" DE="Wimbledon" AT="" DT="23:10:54" />
+            <T S="022" T="11" D="374" C="19:00" L="Left Mansion House" DE="Richmond" AT="" DT="23:10:56" />
+            <T S="030" T="13" D="116" C="23:00" L="Left Tower Hill" DE="Ealing Broadway" AT="" DT="23:10:57" />
+            <T S="025" T="11" D="374" C="27:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="214" T="29" D="0" C="7:00" L="At St James's Park Platform 1" DE="Circle Line" AT="23:18:13" DT="23:20:44" />
+            <T S="215" T="27" D="0" C="17:00" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:27:58" DT="23:30:44" />
+            <T S="216" T="27" D="0" C="27:00" L="At Moorgate Platform 1" DE="Circle Line" AT="23:37:58" DT="23:40:44" />
+        </P>
+        <P N="Eastbound - Platform 3" Code="1" Next="0">
+            <T S="210" T="28" D="0" C="0:30" L="At Gloucester Road Platform 3" DE="Circle Line" AT="" DT="23:10:50" />
+            <T S="013" T="14" D="69" C="3:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="23:13:52" DT="23:14:07" />
+            <T S="124" T="11" D="0" C="5:00" L="Left West Brompton" DE="Tower Hill" AT="23:16:28" DT="23:16:43" />
+            <T S="104" T="9" D="0" C="7:00" L="Between Hammersmith and Barons Court" DE="Upminster" AT="23:18:22" DT="23:18:37" />
+            <T S="211" T="28" D="0" C="9:00" L="Between Edgware Road and Paddington" DE="Circle Line" AT="23:20:30" DT="23:20:45" />
+        </P>
+    </S>
+    <S Code="GUN" N="Gunnersbury.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="031" T="13" D="374" C="3:30" L="Between Stamford Brook and Turnham Green" DE="Richmond" AT="" DT="23:10:46" />
+            <T S="062" T="17" D="374" C="13:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="2N77" T="0" D="573" C="1:00" L="Left Kew Gardens" DE="Network Rail" AT="" DT="23:10:22" />
+            <T S="2N27" T="0" D="573" C="3:00" L="At Richmond Platform 5" DE="Network Rail" AT="" DT="22:59:13" />
+        </P>
+    </S>
+    <S Code="HMD" N="Hammersmith (District and Picc).">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="020" T="15" D="116" C="1:30" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+            <T S="062" T="17" D="374" C="6:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 4" Code="1" Next="0">
+            <T S="063" T="14" D="440" C="3:30" L="At Stamford Brook Platform 3" DE="Upminster" AT="" DT="23:10:36" />
+            <T S="017" T="15" D="510" C="7:00" L="" DE="Check Front of Train" AT="" DT="23:10:13" />
+            <T S="125" T="13" D="432" C="12:00" L="Between Ealing Common and Acton Town" DE="Tower Hill" AT="" DT="23:10:48" />
+        </P>
+    </S>
+    <S Code="HST" N="High Street Kensington.">
+        <P N="Westbound - Platform 1" Code="0" Next="1">
+            <T S="074" T="26" D="500" C="2:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="23:12:41" DT="23:15:26" />
+            <T S="211" T="28" D="0" C="7:00" L="Between Edgware Road and Paddington" DE="Circle Line" AT="23:17:41" DT="23:18:11" />
+            <T S="075" T="28" D="0" C="15:00" L="At Bayswater Platform 2" DE="Check Front of Train" AT="23:25:59" DT="23:26:20" />
+            <T S="212" T="29" D="0" C="17:00" L="At Paddington Platform 2" DE="Circle Line" AT="23:27:44" DT="23:28:11" />
+            <T S="076" T="28" D="0" C="22:00" L="At High Street Kensington Platform 2" DE="Check Front of Train" AT="23:32:41" DT="23:35:26" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="076" T="27" D="147" C="-" L="At Platform" DE="Edgware Road" AT="23:10:56" DT="23:11:11" />
+            <T S="213" T="27" D="0" C="2:30" L="Left Gloucester Road" DE="Circle Line" AT="23:13:22" DT="23:15:57" />
+            <T S="214" T="29" D="0" C="11:00" L="At St James's Park Platform 1" DE="Circle Line" AT="23:22:26" DT="23:25:57" />
+            <T S="215" T="27" D="0" C="21:00" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:32:26" DT="23:35:57" />
+        </P>
+        <P N="Westbound - Platform 3" Code="0" Next="0" />
+        <P N="Westbound - Platform 4" Code="0" Next="0" />
+    </S>
+    <S Code="HCH" N="Hornchurch.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="115" T="1" D="0" C="6:00" L="Upminster area" DE="Richmond" AT="23:16:49" DT="23:17:04" />
+            <T S="041" T="15" D="0" C="14:00" L="At Upminster Platform 3" DE="Ealing Broadway" AT="23:24:40" DT="23:24:57" />
+            <T S="106" T="8" D="0" C="22:00" L="Between Elm Park and Hornchurch" DE="Check Front of Train" AT="23:33:27" DT="23:33:42" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="106" T="7" D="440" C="1:30" L="Between Elm Park and Hornchurch" DE="Upminster" AT="23:12:01" DT="23:12:16" />
+            <T S="005" T="10" D="440" C="6:00" L="Between Dagenham Heathway and Dagenham East" DE="Upminster" AT="23:17:21" DT="23:17:36" />
+            <T S="701" T="500" D="0" C="14:00" L="Barking Sidings" DE="Check Front of Train" AT="23:25:09" DT="23:25:27" />
+            <T S="006" T="13" D="440" C="18:00" L="Between East Ham and Barking" DE="Upminster" AT="23:28:42" DT="23:28:57" />
+            <T S="061" T="12" D="0" C="26:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:37:21" DT="23:37:36" />
+        </P>
+    </S>
+    <S Code="KEW" N="Kew Gardens.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="2N27" T="0" D="573" C="1:30" L="At Richmond Platform 5" DE="Network Rail" AT="" DT="22:59:13" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="031" T="13" D="374" C="4:30" L="Between Stamford Brook and Turnham Green" DE="Richmond" AT="" DT="23:10:46" />
+            <T S="062" T="17" D="374" C="14:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+    </S>
+    <S Code="MAN" N="Mansion House.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="215" T="27" D="0" C="1:30" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:12:02" DT="23:12:29" />
+            <T S="030" T="13" D="116" C="4:00" L="Left Tower Hill" DE="Ealing Broadway" AT="23:14:32" DT="23:14:59" />
+            <T S="051" T="17" D="0" C="6:00" L="At Tower Hill Platform 2" DE="Wimbledon" AT="23:17:02" DT="23:17:29" />
+            <T S="025" T="11" D="374" C="9:00" L="At Whitechapel Platform 2" DE="Richmond" AT="23:19:32" DT="23:19:59" />
+            <T S="216" T="27" D="0" C="11:00" L="At Moorgate Platform 1" DE="Circle Line" AT="23:22:02" DT="23:22:29" />
+            <T S="057" T="13" D="374" C="22:00" L="At West Ham Platform 1" DE="Richmond" AT="" DT="23:10:50" />
+            <T S="032" T="11" D="116" C="28:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 3" Code="1" Next="0">
+            <T S="064" T="18" D="432" C="-" L="At Platform" DE="Tower Hill" AT="23:11:00" DT="23:11:26" />
+            <T S="207" T="28" D="0" C="4:30" L="At Embankment Platform 2" DE="Circle Line" AT="23:15:00" DT="23:15:26" />
+            <T S="053" T="15" D="440" C="5:00" L="Left Westminster" DE="Upminster" AT="23:16:01" DT="23:16:16" />
+            <T S="011" T="10" D="69" C="6:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:17:26" DT="23:17:41" />
+            <T S="050" T="12" D="440" C="8:00" L="Between Victoria and St James's Park" DE="Upminster" AT="23:18:56" DT="23:19:11" />
+            <T S="012" T="11" D="440" C="15:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+            <T S="123" T="11" D="432" C="17:00" L="At South Kensington Platform 5" DE="Tower Hill" AT="" DT="23:10:50" />
+            <T S="013" T="14" D="69" C="22:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="MLE" N="Mile End.">
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="057" T="13" D="374" C="6:00" L="At West Ham Platform 1" DE="Richmond" AT="23:16:36" DT="23:16:56" />
+            <T S="261" T="15" D="0" C="9:00" L="Between Upton Park and Plaistow" DE="Hammersmith" AT="23:19:36" DT="23:19:56" />
+            <T S="032" T="11" D="116" C="11:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:21:36" DT="23:21:56" />
+            <T S="001" T="11" D="374" C="16:00" L="At Barking Platform 6" DE="Richmond" AT="23:26:36" DT="23:26:56" />
+            <T S="262" T="15" D="0" C="19:00" L="Barking Sidings" DE="Hammersmith" AT="23:29:36" DT="23:29:56" />
+        </P>
+        <P N="Eastbound - Platform 3" Code="1" Next="0">
+            <T S="007" T="12" D="69" C="1:30" L="At Stepney Green Platform 2" DE="Barking" AT="23:12:28" DT="23:12:56" />
+            <T S="035" T="12" D="440" C="6:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:17:03" DT="23:17:26" />
+            <T S="266" T="14" D="0" C="8:00" L="Between Liverpool Street and Aldgate East" DE="Barking" AT="23:19:11" DT="23:19:27" />
+            <T S="267" T="16" D="0" C="18:00" L="Between Kings Cross St. Pancras and Farringdon" DE="Upminster" AT="23:29:11" DT="23:29:27" />
+            <T S="053" T="15" D="440" C="19:00" L="Left Westminster" DE="Upminster" AT="23:30:26" DT="23:30:42" />
+            <T S="011" T="10" D="69" C="22:00" L="Between St James's Park and Westminster" DE="Barking" AT="" DT="23:10:56" />
+            <T S="050" T="12" D="440" C="24:00" L="Between Victoria and St James's Park" DE="Upminster" AT="" DT="23:10:56" />
+            <T S="012" T="11" D="440" C="28:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+        </P>
+    </S>
+    <S Code="MON" N="Monument.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="030" T="13" D="116" C="1:00" L="Left Tower Hill" DE="Ealing Broadway" AT="23:11:51" DT="23:12:27" />
+            <T S="051" T="17" D="0" C="4:00" L="At Tower Hill Platform 2" DE="Wimbledon" AT="23:14:31" DT="23:14:57" />
+            <T S="025" T="11" D="374" C="6:00" L="At Whitechapel Platform 2" DE="Richmond" AT="23:17:02" DT="23:17:27" />
+            <T S="216" T="27" D="0" C="9:00" L="At Moorgate Platform 1" DE="Circle Line" AT="23:19:32" DT="23:19:57" />
+            <T S="064" T="19" D="0" C="14:00" L="At Mansion House Platform 3" DE="Check Front of Train" AT="23:24:31" DT="23:24:57" />
+            <T S="057" T="13" D="374" C="20:00" L="At West Ham Platform 1" DE="Richmond" AT="" DT="23:10:50" />
+            <T S="032" T="11" D="116" C="26:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="064" T="18" D="432" C="2:30" L="At Mansion House Platform 3" DE="Tower Hill" AT="23:13:26" DT="23:14:12" />
+            <T S="207" T="28" D="0" C="6:00" L="At Embankment Platform 2" DE="Circle Line" AT="23:17:26" DT="23:18:12" />
+            <T S="053" T="15" D="440" C="7:00" L="Left Westminster" DE="Upminster" AT="23:18:27" DT="23:18:42" />
+            <T S="011" T="10" D="69" C="9:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:19:34" DT="23:19:49" />
+            <T S="050" T="12" D="440" C="10:00" L="Between Victoria and St James's Park" DE="Upminster" AT="23:21:04" DT="23:21:42" />
+            <T S="012" T="11" D="440" C="16:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+            <T S="123" T="11" D="432" C="19:00" L="At South Kensington Platform 5" DE="Tower Hill" AT="" DT="23:10:50" />
+            <T S="013" T="14" D="69" C="24:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="OLY" N="Olympia.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0" />
+    </S>
+    <S Code="PADc" N="Paddington Circle.">
+        <P N="Inner Rail - Platform 1" Code="0" Next="0">
+            <T S="211" T="28" D="0" C="1:30" L="Between Edgware Road and Paddington" DE="Circle Line" AT="23:12:27" DT="23:12:48" />
+            <T S="075" T="28" D="0" C="10:00" L="At Bayswater Platform 2" DE="Check Front of Train" AT="23:21:04" DT="23:21:25" />
+            <T S="212" T="29" D="0" C="12:00" L="At Paddington Platform 2" DE="Circle Line" AT="23:22:50" DT="23:23:11" />
+            <T S="076" T="28" D="0" C="17:00" L="At High Street Kensington Platform 2" DE="Check Front of Train" AT="23:27:38" DT="23:27:59" />
+            <T S="213" T="28" D="0" C="22:00" L="Left Gloucester Road" DE="Circle Line" AT="23:32:50" DT="23:33:11" />
+        </P>
+        <P N="Outer Rail - Platform 2" Code="1" Next="0">
+            <T S="212" T="28" D="0" C="0:30" L="At Paddington Platform 2" DE="Circle Line" AT="23:11:04" DT="23:11:42" />
+            <T S="075" T="27" D="147" C="1:00" L="At Bayswater Platform 2" DE="Edgware Road" AT="23:11:57" DT="23:12:18" />
+            <T S="076" T="27" D="147" C="5:00" L="At High Street Kensington Platform 2" DE="Edgware Road" AT="23:16:08" DT="23:16:42" />
+            <T S="213" T="27" D="0" C="10:00" L="Left Gloucester Road" DE="Circle Line" AT="23:21:08" DT="23:21:42" />
+            <T S="214" T="29" D="0" C="20:00" L="At St James's Park Platform 1" DE="Circle Line" AT="23:31:08" DT="23:31:42" />
+        </P>
+    </S>
+    <S Code="PGR" N="Parsons Green.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="073" T="26" D="500" C="8:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="13:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="077" T="27" D="432" C="1:00" L="Between Putney Bridge and Parsons Green" DE="Tower Hill" AT="" DT="23:10:48" />
+            <T S="070" T="28" D="1025" C="12:00" L="Approaching Wimbledon" DE="City (via Victoria)" AT="" DT="23:10:23" />
+        </P>
+    </S>
+    <S Code="PLW" N="Plaistow.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="261" T="15" D="0" C="1:00" L="Between Upton Park and Plaistow" DE="Hammersmith" AT="23:11:56" DT="23:12:11" />
+            <T S="032" T="11" D="116" C="3:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:13:51" DT="23:14:06" />
+            <T S="001" T="11" D="374" C="8:00" L="At Barking Platform 6" DE="Richmond" AT="23:18:56" DT="23:19:11" />
+            <T S="262" T="15" D="0" C="11:00" L="Barking Sidings" DE="Hammersmith" AT="23:21:56" DT="23:22:11" />
+            <T S="044" T="13" D="0" C="13:00" L="At Barking Platform 3" DE="Ealing Broadway" AT="23:23:55" DT="23:24:10" />
+            <T S="026" T="11" D="374" C="29:00" L="At Dagenham East Platform 1" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="033" T="10" D="69" C="-" L="At Platform" DE="Barking" AT="" DT="23:10:53" />
+            <T S="061" T="12" D="440" C="4:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:14:39" DT="23:14:57" />
+            <T S="171" T="12" D="0" C="6:00" L="At Bow Road Platform 2" DE="Barking" AT="23:16:39" DT="23:16:57" />
+            <T S="007" T="12" D="69" C="9:00" L="At Stepney Green Platform 2" DE="Barking" AT="23:20:09" DT="23:20:27" />
+            <T S="035" T="12" D="440" C="14:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:24:39" DT="23:24:57" />
+        </P>
+        <P N="Westbound - Platform 3" Code="0" Next="0" />
+    </S>
+    <S Code="PUT" N="Putney Bridge.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="070" T="28" D="1025" C="9:00" L="Approaching Wimbledon" DE="City (via Victoria)" AT="" DT="23:10:23" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="073" T="26" D="500" C="10:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="15:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+    </S>
+    <S Code="RCP" N="Ravenscourt Park.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="020" T="15" D="116" C="3:00" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+            <T S="062" T="17" D="374" C="8:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 4" Code="1" Next="0">
+            <T S="063" T="14" D="440" C="1:30" L="At Stamford Brook Platform 3" DE="Upminster" AT="" DT="23:10:36" />
+            <T S="017" T="15" D="510" C="5:00" L="" DE="Check Front of Train" AT="" DT="23:10:13" />
+            <T S="125" T="13" D="432" C="10:00" L="Between Ealing Common and Acton Town" DE="Tower Hill" AT="" DT="23:10:48" />
+        </P>
+    </S>
+    <S Code="RMD" N="Richmond.">
+        <P N="Eastbound - Platform 3" Code="1" Next="0">
+            <T S="102" T="9" D="374" C="0:30" L="Approaching Richmond" DE="Richmond" AT="" DT="23:10:40" />
+            <T S="031" T="13" D="374" C="6:00" L="Between Stamford Brook and Turnham Green" DE="Richmond" AT="" DT="23:10:46" />
+            <T S="062" T="17" D="374" C="16:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 4" Code="1" Next="0">
+            <T S="102" T="9" D="374" C="0:30" L="Approaching Richmond" DE="Richmond" AT="" DT="23:10:40" />
+            <T S="031" T="13" D="374" C="6:00" L="Between Stamford Brook and Turnham Green" DE="Richmond" AT="" DT="23:10:46" />
+            <T S="062" T="17" D="374" C="16:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 5" Code="1" Next="0">
+            <T S="2N27" T="0" D="573" C="-" L="At Platform" DE="Network Rail" AT="" DT="22:59:13" />
+            <T S="102" T="9" D="374" C="0:30" L="Approaching Richmond" DE="Richmond" AT="" DT="23:10:40" />
+            <T S="031" T="13" D="374" C="6:00" L="Between Stamford Brook and Turnham Green" DE="Richmond" AT="" DT="23:10:46" />
+            <T S="062" T="17" D="374" C="16:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 6" Code="1" Next="0">
+            <T S="102" T="9" D="374" C="0:30" L="Approaching Richmond" DE="Richmond" AT="" DT="23:10:40" />
+            <T S="031" T="13" D="374" C="5:00" L="Between Stamford Brook and Turnham Green" DE="Richmond" AT="" DT="23:10:46" />
+            <T S="062" T="17" D="374" C="15:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 7" Code="1" Next="0">
+            <T S="014" T="11" D="510" C="-" L="At Platform" DE="Check Front of Train" AT="" DT="23:01:27" />
+            <T S="102" T="9" D="374" C="0:30" L="Approaching Richmond" DE="Richmond" AT="" DT="23:10:40" />
+            <T S="031" T="13" D="374" C="5:00" L="Between Stamford Brook and Turnham Green" DE="Richmond" AT="" DT="23:10:46" />
+            <T S="062" T="17" D="374" C="15:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+    </S>
+    <S Code="SSQ" N="Sloane Square.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="065" T="15" D="500" C="-" L="At Platform" DE="Wimbledon" AT="23:10:59" DT="23:11:15" />
+            <T S="021" T="11" D="374" C="1:30" L="At Victoria Platform 1" DE="Richmond" AT="23:12:08" DT="23:12:24" />
+            <T S="214" T="29" D="0" C="3:30" L="At St James's Park Platform 1" DE="Circle Line" AT="23:14:07" DT="23:14:26" />
+            <T S="015" T="15" D="116" C="5:00" L="At Westminster Platform 1" DE="Ealing Broadway" AT="23:16:30" DT="23:16:56" />
+            <T S="047" T="17" D="500" C="9:00" L="At Blackfriars Platform 1" DE="Wimbledon" AT="23:20:20" DT="23:20:36" />
+            <T S="022" T="11" D="374" C="14:00" L="Left Mansion House" DE="Richmond" AT="" DT="23:10:56" />
+            <T S="030" T="13" D="116" C="18:00" L="Left Tower Hill" DE="Ealing Broadway" AT="" DT="23:10:57" />
+            <T S="025" T="11" D="374" C="22:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="012" T="11" D="440" C="0:30" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="23:11:23" DT="23:11:56" />
+            <T S="123" T="11" D="432" C="1:30" L="At South Kensington Platform 5" DE="Tower Hill" AT="23:12:23" DT="23:12:38" />
+            <T S="210" T="28" D="0" C="3:00" L="At Gloucester Road Platform 3" DE="Circle Line" AT="23:13:56" DT="23:14:26" />
+            <T S="013" T="14" D="69" C="6:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="23:16:59" DT="23:17:14" />
+            <T S="124" T="11" D="0" C="9:00" L="Left West Brompton" DE="Tower Hill" AT="23:19:35" DT="23:19:50" />
+        </P>
+    </S>
+    <S Code="SKN" N="South Kensington.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="103" T="7" D="500" C="1:30" L="Between Sloane Square and South Kensington" DE="Wimbledon" AT="23:12:09" DT="23:12:30" />
+            <T S="065" T="15" D="500" C="3:00" L="At Sloane Square Platform 1" DE="Wimbledon" AT="23:13:40" DT="23:14:01" />
+            <T S="021" T="11" D="374" C="4:30" L="At Victoria Platform 1" DE="Richmond" AT="23:15:11" DT="23:15:32" />
+            <T S="214" T="29" D="0" C="6:00" L="At St James's Park Platform 1" DE="Circle Line" AT="23:16:42" DT="23:16:57" />
+            <T S="015" T="15" D="116" C="8:00" L="At Westminster Platform 1" DE="Ealing Broadway" AT="23:18:44" DT="23:19:11" />
+            <T S="047" T="17" D="500" C="16:00" L="At Blackfriars Platform 1" DE="Wimbledon" AT="" DT="23:10:54" />
+            <T S="022" T="11" D="374" C="17:00" L="Left Mansion House" DE="Richmond" AT="" DT="23:10:56" />
+            <T S="030" T="13" D="116" C="21:00" L="Left Tower Hill" DE="Ealing Broadway" AT="" DT="23:10:57" />
+            <T S="025" T="11" D="374" C="26:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="123" T="11" D="432" C="-" L="At Platform" DE="Tower Hill" AT="" DT="23:10:53" />
+            <T S="210" T="28" D="0" C="1:00" L="At Gloucester Road Platform 3" DE="Circle Line" AT="23:11:57" DT="23:12:12" />
+            <T S="013" T="14" D="69" C="4:30" L="Approaching Earls Court Platform 1" DE="Barking" AT="23:15:14" DT="23:15:29" />
+            <T S="124" T="11" D="0" C="7:00" L="Left West Brompton" DE="Tower Hill" AT="23:17:50" DT="23:18:05" />
+            <T S="104" T="9" D="0" C="9:00" L="Between Hammersmith and Barons Court" DE="Upminster" AT="23:19:44" DT="23:19:59" />
+        </P>
+    </S>
+    <S Code="SFS" N="Southfields.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="070" T="28" D="1025" C="4:30" L="Approaching Wimbledon" DE="City (via Victoria)" AT="" DT="23:10:23" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="072" T="30" D="500" C="2:30" L="Approaching East Putney" DE="Wimbledon" AT="" DT="23:10:43" />
+            <T S="073" T="26" D="500" C="14:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="19:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+    </S>
+    <S Code="SJP" N="St. James's Park.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="214" T="29" D="0" C="0:30" L="At St James's Park Platform 1" DE="Circle Line" AT="" DT="23:11:01" />
+            <T S="015" T="15" D="116" C="2:00" L="At Westminster Platform 1" DE="Ealing Broadway" AT="23:12:46" DT="23:13:12" />
+            <T S="047" T="17" D="500" C="6:00" L="At Blackfriars Platform 1" DE="Wimbledon" AT="23:17:01" DT="23:17:16" />
+            <T S="022" T="11" D="374" C="7:00" L="Left Mansion House" DE="Richmond" AT="23:18:28" DT="23:18:43" />
+            <T S="215" T="27" D="0" C="9:00" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:20:22" DT="23:20:42" />
+            <T S="030" T="13" D="116" C="13:00" L="Left Tower Hill" DE="Ealing Broadway" AT="" DT="23:10:57" />
+            <T S="025" T="11" D="374" C="18:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="050" T="12" D="440" C="1:00" L="Between Victoria and St James's Park" DE="Upminster" AT="23:11:48" DT="23:12:03" />
+            <T S="012" T="11" D="440" C="4:30" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="23:15:12" DT="23:15:29" />
+            <T S="123" T="11" D="432" C="5:00" L="At South Kensington Platform 5" DE="Tower Hill" AT="23:15:48" DT="23:16:03" />
+            <T S="210" T="28" D="0" C="7:00" L="At Gloucester Road Platform 3" DE="Circle Line" AT="23:17:42" DT="23:17:59" />
+            <T S="013" T="14" D="69" C="9:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="23:20:17" DT="23:20:32" />
+        </P>
+    </S>
+    <S Code="STB" N="Stamford Brook.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="020" T="15" D="116" C="4:30" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+            <T S="062" T="17" D="374" C="9:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 3" Code="1" Next="0">
+            <T S="063" T="14" D="440" C="-" L="At Platform" DE="Upminster" AT="" DT="23:10:36" />
+            <T S="017" T="15" D="510" C="4:00" L="" DE="Check Front of Train" AT="" DT="23:10:13" />
+            <T S="125" T="13" D="432" C="9:00" L="Between Ealing Common and Acton Town" DE="Tower Hill" AT="" DT="23:10:48" />
+        </P>
+    </S>
+    <S Code="STG" N="Stepney Green.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="277" T="16" D="0" C="0:30" L="Approaching Stepney Green Platform 1" DE="Hammersmith" AT="23:11:25" DT="23:11:57" />
+            <T S="057" T="13" D="374" C="8:00" L="At West Ham Platform 1" DE="Richmond" AT="23:18:37" DT="23:18:57" />
+            <T S="261" T="15" D="0" C="11:00" L="Between Upton Park and Plaistow" DE="Hammersmith" AT="23:21:37" DT="23:21:57" />
+            <T S="032" T="11" D="116" C="13:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:23:37" DT="23:23:57" />
+            <T S="001" T="11" D="374" C="18:00" L="At Barking Platform 6" DE="Richmond" AT="23:28:37" DT="23:28:57" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="007" T="12" D="69" C="-" L="At Platform" DE="Barking" AT="" DT="23:10:57" />
+            <T S="035" T="12" D="440" C="4:30" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:15:16" DT="23:15:31" />
+            <T S="266" T="14" D="0" C="6:00" L="Between Liverpool Street and Aldgate East" DE="Barking" AT="23:17:25" DT="23:17:40" />
+            <T S="267" T="16" D="0" C="16:00" L="Between Kings Cross St. Pancras and Farringdon" DE="Upminster" AT="23:27:25" DT="23:27:40" />
+            <T S="053" T="15" D="440" C="18:00" L="Left Westminster" DE="Upminster" AT="23:28:39" DT="23:28:54" />
+            <T S="011" T="10" D="69" C="19:00" L="Between St James's Park and Westminster" DE="Barking" AT="" DT="23:10:56" />
+            <T S="050" T="12" D="440" C="21:00" L="Between Victoria and St James's Park" DE="Upminster" AT="" DT="23:10:56" />
+            <T S="012" T="11" D="440" C="25:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+        </P>
+    </S>
+    <S Code="TEM" N="Temple.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="047" T="17" D="500" C="1:30" L="At Blackfriars Platform 1" DE="Wimbledon" AT="23:12:13" DT="23:12:29" />
+            <T S="022" T="11" D="374" C="2:30" L="Left Mansion House" DE="Richmond" AT="23:13:10" DT="23:13:26" />
+            <T S="215" T="27" D="0" C="4:30" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:15:28" DT="23:15:44" />
+            <T S="030" T="13" D="116" C="7:00" L="Left Tower Hill" DE="Ealing Broadway" AT="23:17:58" DT="23:18:14" />
+            <T S="051" T="17" D="0" C="9:00" L="At Tower Hill Platform 2" DE="Wimbledon" AT="23:20:28" DT="23:20:44" />
+            <T S="025" T="11" D="374" C="12:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+            <T S="057" T="13" D="374" C="25:00" L="At West Ham Platform 1" DE="Richmond" AT="" DT="23:10:50" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="207" T="28" D="0" C="1:30" L="At Embankment Platform 2" DE="Circle Line" AT="23:12:00" DT="23:12:15" />
+            <T S="053" T="15" D="440" C="2:30" L="Left Westminster" DE="Upminster" AT="23:13:07" DT="23:13:22" />
+            <T S="011" T="10" D="69" C="4:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:14:32" DT="23:14:47" />
+            <T S="050" T="12" D="440" C="5:00" L="Between Victoria and St James's Park" DE="Upminster" AT="23:16:02" DT="23:16:17" />
+            <T S="012" T="11" D="440" C="9:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="23:20:03" DT="23:20:26" />
+            <T S="123" T="11" D="432" C="14:00" L="At South Kensington Platform 5" DE="Tower Hill" AT="" DT="23:10:50" />
+            <T S="013" T="14" D="69" C="18:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="THL" N="Tower Hill.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="025" T="11" D="374" C="4:30" L="At Whitechapel Platform 2" DE="Richmond" AT="23:15:11" DT="23:15:44" />
+            <T S="216" T="27" D="0" C="7:00" L="At Moorgate Platform 1" DE="Circle Line" AT="23:17:36" DT="23:18:14" />
+            <T S="057" T="13" D="374" C="14:00" L="At West Ham Platform 1" DE="Richmond" AT="23:25:11" DT="23:25:44" />
+            <T S="217" T="30" D="0" C="17:00" L="At Baker Street Platform 5" DE="Circle Line" AT="23:27:48" DT="23:28:14" />
+            <T S="032" T="11" D="116" C="19:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:30:11" DT="23:30:44" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="051" T="17" D="500" C="-" L="At Platform" DE="Wimbledon" AT="" DT="23:13:11" />
+            <T S="064" T="18" D="432" C="5:00" L="At Mansion House Platform 3" DE="Check Front of Train" AT="23:15:54" DT="23:23:11" />
+            <T S="123" T="11" D="432" C="18:00" L="At South Kensington Platform 5" DE="Check Front of Train" AT="23:28:51" DT="23:33:11" />
+            <T S="124" T="12" D="0" C="25:00" L="Left West Brompton" DE="Check Front of Train" AT="23:35:54" DT="23:43:41" />
+        </P>
+        <P N="Eastbound - Platform 3" Code="1" Next="0">
+            <T S="206" T="27" D="0" C="0:30" L="At Tower Hill Platform 3" DE="Circle Line" AT="" DT="23:11:17" />
+            <T S="207" T="28" D="0" C="9:00" L="At Embankment Platform 2" DE="Circle Line" AT="23:19:47" DT="23:20:11" />
+            <T S="053" T="15" D="440" C="11:00" L="Left Westminster" DE="Upminster" AT="23:21:38" DT="23:21:53" />
+            <T S="011" T="10" D="69" C="12:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:23:18" DT="23:23:33" />
+            <T S="050" T="12" D="440" C="14:00" L="Between Victoria and St James's Park" DE="Upminster" AT="23:24:58" DT="23:25:13" />
+            <T S="012" T="11" D="440" C="18:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+            <T S="013" T="14" D="69" C="25:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="TGR" N="Turnham Green.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="031" T="13" D="374" C="1:00" L="Between Stamford Brook and Turnham Green" DE="Richmond" AT="" DT="23:10:46" />
+            <T S="020" T="15" D="116" C="6:00" L="Between Barons Court and Hammersmith" DE="Ealing Broadway" AT="" DT="23:10:56" />
+            <T S="062" T="17" D="374" C="11:00" L="At Earls Court Platform 4" DE="Richmond" AT="" DT="23:10:57" />
+        </P>
+        <P N="Eastbound - Platform 4" Code="1" Next="0">
+            <T S="017" T="15" D="510" C="2:30" L="" DE="Check Front of Train" AT="" DT="23:10:13" />
+            <T S="125" T="13" D="432" C="7:00" L="Between Ealing Common and Acton Town" DE="Tower Hill" AT="" DT="23:10:59" />
+        </P>
+    </S>
+    <S Code="UPM" N="Upminster.">
+        <P N="Westbound - Platform 3" Code="0" Next="0">
+            <T S="106" T="7" D="440" C="8:00" L="Between Elm Park and Hornchurch" DE="Upminster" AT="" DT="23:10:57" />
+            <T S="041" T="15" D="116" C="-" L="At Platform" DE="Check Front of Train" AT="" DT="23:20:57" />
+            <T S="005" T="10" D="440" C="18:00" L="Between Dagenham Heathway and Dagenham East" DE="Upminster" AT="" DT="23:10:57" />
+        </P>
+        <P N="Westbound - Platform 4" Code="0" Next="0">
+            <T S="106" T="7" D="440" C="5:00" L="Between Elm Park and Hornchurch" DE="Check Front of Train" AT="23:16:08" DT="23:29:26" />
+            <T S="005" T="10" D="440" C="18:00" L="Between Dagenham Heathway and Dagenham East" DE="Upminster" AT="" DT="23:10:57" />
+            <T S="701" T="500" D="0" C="19:00" L="Barking Sidings" DE="Check Front of Train" AT="23:30:28" DT="23:30:56" />
+            <T S="006" T="13" D="0" C="22:00" L="Between East Ham and Barking" DE="Check Front of Train" AT="23:32:49" DT="23:36:26" />
+        </P>
+        <P N="Westbound - Platform 5" Code="0" Next="1">
+            <T S="115" T="1" D="0" C="1:30" L="Upminster area" DE="Richmond" AT="23:12:20" DT="23:12:57" />
+            <T S="106" T="7" D="440" C="8:00" L="Between Elm Park and Hornchurch" DE="Upminster" AT="" DT="23:10:57" />
+            <T S="005" T="10" D="440" C="10:00" L="Between Dagenham Heathway and Dagenham East" DE="Check Front of Train" AT="23:21:25" DT="23:41:27" />
+        </P>
+    </S>
+    <S Code="UPB" N="Upminster Bridge.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="115" T="1" D="0" C="4:00" L="Upminster area" DE="Richmond" AT="23:14:51" DT="23:15:06" />
+            <T S="041" T="15" D="0" C="12:00" L="At Upminster Platform 3" DE="Ealing Broadway" AT="23:22:40" DT="23:22:57" />
+            <T S="106" T="8" D="0" C="20:00" L="Between Elm Park and Hornchurch" DE="Check Front of Train" AT="23:31:29" DT="23:31:44" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="106" T="7" D="440" C="3:00" L="Between Elm Park and Hornchurch" DE="Upminster" AT="23:13:59" DT="23:14:14" />
+            <T S="005" T="10" D="440" C="8:00" L="Between Dagenham Heathway and Dagenham East" DE="Upminster" AT="23:19:19" DT="23:19:34" />
+            <T S="701" T="500" D="0" C="16:00" L="Barking Sidings" DE="Check Front of Train" AT="23:27:10" DT="23:27:32" />
+            <T S="006" T="13" D="0" C="20:00" L="Between East Ham and Barking" DE="Upminster" AT="23:30:40" DT="23:30:55" />
+            <T S="061" T="12" D="0" C="28:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:39:19" DT="23:39:34" />
+        </P>
+    </S>
+    <S Code="UPY" N="Upney.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="026" T="11" D="374" C="8:00" L="At Dagenham East Platform 1" DE="Richmond" AT="23:19:03" DT="23:19:18" />
+            <T S="115" T="1" D="0" C="18:00" L="Upminster area" DE="Richmond" AT="23:29:03" DT="23:29:18" />
+            <T S="041" T="15" D="0" C="26:00" L="At Upminster Platform 3" DE="Ealing Broadway" AT="23:37:03" DT="23:37:18" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="701" T="500" D="0" C="2:30" L="Barking Sidings" DE="Check Front of Train" AT="23:13:17" DT="23:13:32" />
+            <T S="006" T="13" D="440" C="6:00" L="Between East Ham and Barking" DE="Upminster" AT="23:16:38" DT="23:16:53" />
+            <T S="061" T="12" D="440" C="14:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:25:24" DT="23:25:39" />
+            <T S="035" T="12" D="0" C="24:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:35:24" DT="23:35:39" />
+        </P>
+    </S>
+    <S Code="UPK" N="Upton Park.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="032" T="11" D="116" C="1:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:11:39" DT="23:11:57" />
+            <T S="001" T="11" D="374" C="6:00" L="At Barking Platform 6" DE="Richmond" AT="23:16:48" DT="23:17:03" />
+            <T S="262" T="15" D="0" C="9:00" L="Barking Sidings" DE="Hammersmith" AT="23:19:48" DT="23:20:03" />
+            <T S="044" T="13" D="0" C="11:00" L="At Barking Platform 3" DE="Ealing Broadway" AT="23:21:47" DT="23:22:02" />
+            <T S="026" T="11" D="374" C="16:00" L="At Dagenham East Platform 1" DE="Richmond" AT="23:27:18" DT="23:27:33" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="033" T="10" D="69" C="2:00" L="At Plaistow Platform 2" DE="Barking" AT="23:12:40" DT="23:12:55" />
+            <T S="061" T="12" D="440" C="6:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:16:46" DT="23:17:01" />
+            <T S="171" T="12" D="0" C="8:00" L="At Bow Road Platform 2" DE="Barking" AT="23:18:46" DT="23:19:01" />
+            <T S="007" T="12" D="69" C="11:00" L="At Stepney Green Platform 2" DE="Barking" AT="23:22:16" DT="23:22:31" />
+            <T S="035" T="12" D="440" C="16:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:26:46" DT="23:27:01" />
+        </P>
+    </S>
+    <S Code="VIC" N="Victoria.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="021" T="11" D="0" C="0:30" L="At Victoria Platform 1" DE="Richmond" AT="" DT="23:10:44" />
+            <T S="214" T="29" D="0" C="1:30" L="At St James's Park Platform 1" DE="Circle Line" AT="23:12:17" DT="23:12:36" />
+            <T S="015" T="15" D="116" C="3:30" L="At Westminster Platform 1" DE="Ealing Broadway" AT="23:14:28" DT="23:14:56" />
+            <T S="047" T="17" D="500" C="7:00" L="At Blackfriars Platform 1" DE="Wimbledon" AT="23:18:30" DT="23:18:49" />
+            <T S="022" T="11" D="374" C="9:00" L="Left Mansion House" DE="Richmond" AT="23:19:57" DT="23:20:16" />
+            <T S="030" T="13" D="116" C="15:00" L="Left Tower Hill" DE="Ealing Broadway" AT="" DT="23:10:57" />
+            <T S="025" T="11" D="374" C="19:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+        </P>
+        <P N="Eastbound - Platform 2 " Code="1" Next="0">
+            <T S="012" T="11" D="440" C="2:30" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="23:13:28" DT="23:13:59" />
+            <T S="123" T="11" D="432" C="3:30" L="At South Kensington Platform 5" DE="Tower Hill" AT="23:14:14" DT="23:14:35" />
+            <T S="210" T="28" D="0" C="5:00" L="At Gloucester Road Platform 3" DE="Circle Line" AT="23:15:58" DT="23:16:29" />
+            <T S="013" T="14" D="69" C="8:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="23:18:43" DT="23:19:04" />
+            <T S="124" T="11" D="0" C="10:00" L="Left West Brompton" DE="Tower Hill" AT="23:21:19" DT="23:21:40" />
+        </P>
+    </S>
+    <S Code="WBT" N="West Brompton.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="073" T="26" D="500" C="3:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="23:13:31" DT="23:13:46" />
+            <T S="103" T="7" D="0" C="6:00" L="Between Sloane Square and South Kensington" DE="Wimbledon" AT="23:17:00" DT="23:17:15" />
+            <T S="065" T="15" D="0" C="8:00" L="At Sloane Square Platform 1" DE="Wimbledon" AT="23:19:01" DT="23:19:16" />
+            <T S="074" T="26" D="500" C="12:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="23:22:39" DT="23:23:11" />
+            <T S="047" T="17" D="0" C="17:00" L="At Blackfriars Platform 1" DE="Wimbledon" AT="23:27:39" DT="23:28:11" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="124" T="11" D="0" C="0:30" L="Left West Brompton" DE="Tower Hill" AT="" DT="23:10:47" />
+            <T S="077" T="27" D="432" C="5:00" L="Between Putney Bridge and Parsons Green" DE="Tower Hill" AT="" DT="23:10:48" />
+            <T S="070" T="28" D="1025" C="16:00" L="Approaching Wimbledon" DE="City (via Victoria)" AT="" DT="23:10:23" />
+        </P>
+    </S>
+    <S Code="WHM" N="West Ham.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="057" T="13" D="374" C="-" L="At Platform" DE="Richmond" AT="" DT="23:10:56" />
+            <T S="261" T="15" D="0" C="3:00" L="Between Upton Park and Plaistow" DE="Hammersmith" AT="23:13:36" DT="23:13:56" />
+            <T S="032" T="11" D="116" C="4:30" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:15:30" DT="23:15:56" />
+            <T S="001" T="11" D="374" C="10:00" L="At Barking Platform 6" DE="Richmond" AT="23:20:36" DT="23:20:56" />
+            <T S="262" T="15" D="0" C="13:00" L="Barking Sidings" DE="Hammersmith" AT="23:23:36" DT="23:23:56" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="061" T="12" D="440" C="2:00" L="At Bromley-by-Bow Platform 2" DE="Upminster" AT="23:12:54" DT="23:13:26" />
+            <T S="171" T="12" D="0" C="4:30" L="At Bow Road Platform 2" DE="Barking" AT="23:15:07" DT="23:15:26" />
+            <T S="007" T="12" D="69" C="8:00" L="At Stepney Green Platform 2" DE="Barking" AT="23:18:37" DT="23:18:56" />
+            <T S="035" T="12" D="440" C="12:00" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:23:07" DT="23:23:26" />
+            <T S="266" T="14" D="0" C="14:00" L="Between Liverpool Street and Aldgate East" DE="Barking" AT="23:25:07" DT="23:25:26" />
+            <T S="053" T="15" D="440" C="28:00" L="Left Westminster" DE="Upminster" AT="" DT="23:10:56" />
+            <T S="011" T="10" D="69" C="30:00" L="Between St James's Park and Westminster" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="WKN" N="West Kensington.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="062" T="17" D="374" C="2:30" L="At Earls Court Platform 4" DE="Richmond" AT="23:13:27" DT="23:13:42" />
+            <T S="024" T="11" D="0" C="8:00" L="At Gloucester Road Platform 1" DE="Ealing Broadway" AT="23:18:37" DT="23:18:52" />
+            <T S="021" T="11" D="0" C="13:00" L="At Victoria Platform 1" DE="Richmond" AT="23:23:37" DT="23:23:52" />
+            <T S="015" T="15" D="0" C="18:00" L="At Westminster Platform 1" DE="Ealing Broadway" AT="23:28:37" DT="23:28:52" />
+            <T S="022" T="11" D="0" C="23:00" L="Left Mansion House" DE="Richmond" AT="23:33:37" DT="23:33:52" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="104" T="9" D="440" C="2:30" L="Between Hammersmith and Barons Court" DE="Upminster" AT="23:13:16" DT="23:13:37" />
+            <T S="063" T="14" D="440" C="7:00" L="At Stamford Brook Platform 3" DE="Upminster" AT="23:18:16" DT="23:18:37" />
+            <T S="017" T="15" D="510" C="11:00" L="" DE="Check Front of Train" AT="" DT="23:10:13" />
+            <T S="125" T="13" D="432" C="15:00" L="Between Ealing Common and Acton Town" DE="Tower Hill" AT="" DT="23:10:59" />
+            <T S="054" T="16" D="0" C="27:00" L="At Ealing Broadway Platform 8" DE="Upminster" AT="23:38:16" DT="23:38:37" />
+        </P>
+    </S>
+    <S Code="WMS" N="Westminster.">
+        <P N="Westbound - Platform 1" Code="0" Next="0">
+            <T S="015" T="15" D="116" C="-" L="At Platform" DE="Ealing Broadway" AT="23:11:01" DT="23:11:26" />
+            <T S="047" T="17" D="500" C="4:30" L="At Blackfriars Platform 1" DE="Wimbledon" AT="23:15:26" DT="23:15:42" />
+            <T S="022" T="11" D="374" C="6:00" L="Left Mansion House" DE="Richmond" AT="23:16:53" DT="23:17:09" />
+            <T S="215" T="27" D="0" C="8:00" L="At Cannon Street Platform 1" DE="Circle Line" AT="23:18:49" DT="23:19:05" />
+            <T S="030" T="13" D="116" C="10:00" L="Left Tower Hill" DE="Ealing Broadway" AT="23:21:19" DT="23:21:35" />
+            <T S="025" T="11" D="374" C="15:00" L="At Whitechapel Platform 2" DE="Richmond" AT="" DT="23:10:45" />
+            <T S="057" T="13" D="374" C="29:00" L="At West Ham Platform 1" DE="Richmond" AT="" DT="23:10:50" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="053" T="15" D="0" C="0:30" L="Left Westminster" DE="Upminster" AT="" DT="23:10:43" />
+            <T S="011" T="10" D="69" C="1:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:11:40" DT="23:12:00" />
+            <T S="050" T="12" D="440" C="2:30" L="Between Victoria and St James's Park" DE="Upminster" AT="23:13:09" DT="23:13:29" />
+            <T S="012" T="11" D="440" C="6:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="23:16:47" DT="23:17:14" />
+            <T S="123" T="11" D="432" C="6:00" L="At South Kensington Platform 5" DE="Tower Hill" AT="23:17:29" DT="23:17:49" />
+            <T S="013" T="14" D="69" C="15:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+    </S>
+    <S Code="WCL" N="Whitechapel.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="035" T="12" D="440" C="2:30" L="Between Tower Hill and Aldgate East" DE="Upminster" AT="23:13:16" DT="23:13:31" />
+            <T S="266" T="14" D="0" C="4:30" L="Between Liverpool Street and Aldgate East" DE="Barking" AT="23:15:27" DT="23:15:42" />
+            <T S="267" T="16" D="0" C="14:00" L="Between Kings Cross St. Pancras and Farringdon" DE="Upminster" AT="23:25:27" DT="23:25:42" />
+            <T S="053" T="15" D="440" C="16:00" L="Left Westminster" DE="Upminster" AT="23:26:41" DT="23:26:56" />
+            <T S="011" T="10" D="69" C="17:00" L="Between St James's Park and Westminster" DE="Barking" AT="23:27:55" DT="23:28:10" />
+            <T S="050" T="12" D="440" C="18:00" L="Between Victoria and St James's Park" DE="Upminster" AT="" DT="23:10:58" />
+            <T S="012" T="11" D="440" C="22:00" L="Approaching Sloane Square Platform 2" DE="Upminster" AT="" DT="23:10:58" />
+            <T S="013" T="14" D="69" C="30:00" L="Approaching Earls Court Platform 1" DE="Barking" AT="" DT="23:10:56" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="025" T="11" D="374" C="-" L="At Platform" DE="Richmond" AT="" DT="23:11:12" />
+            <T S="277" T="16" D="0" C="3:00" L="Approaching Stepney Green Platform 1" DE="Hammersmith" AT="23:13:53" DT="23:14:12" />
+            <T S="057" T="13" D="374" C="10:00" L="At West Ham Platform 1" DE="Richmond" AT="23:20:53" DT="23:21:12" />
+            <T S="261" T="15" D="0" C="13:00" L="Between Upton Park and Plaistow" DE="Hammersmith" AT="23:23:53" DT="23:24:12" />
+            <T S="032" T="11" D="116" C="15:00" L="Approaching Upton Park Platform 1" DE="Ealing Broadway" AT="23:25:53" DT="23:26:12" />
+            <T S="001" T="11" D="374" C="29:00" L="At Barking Platform 6" DE="Richmond" AT="" DT="23:10:20" />
+        </P>
+    </S>
+    <S Code="WDN" N="Wimbledon.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="043" T="13" D="500" C="0:30" L="Left Wimbledon Park" DE="Wimbledon" AT="" DT="23:10:59" />
+            <T S="072" T="30" D="500" C="4:30" L="Approaching East Putney" DE="Wimbledon" AT="" DT="23:10:43" />
+            <T S="073" T="26" D="500" C="17:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="22:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+        <P N="Eastbound - Platform 2" Code="1" Next="0">
+            <T S="042" T="14" D="1025" C="-" L="At Platform" DE="City (via Victoria)" AT="" DT="23:05:55" />
+            <T S="043" T="13" D="500" C="0:30" L="Left Wimbledon Park" DE="Wimbledon" AT="" DT="23:10:59" />
+            <T S="072" T="30" D="500" C="4:30" L="Approaching East Putney" DE="Wimbledon" AT="" DT="23:10:43" />
+            <T S="073" T="26" D="500" C="17:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="22:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+        <P N="Eastbound - Platform 3" Code="1" Next="0">
+            <T S="043" T="13" D="500" C="1:30" L="Left Wimbledon Park" DE="Wimbledon" AT="" DT="23:10:59" />
+            <T S="072" T="30" D="500" C="5:30" L="Approaching East Putney" DE="Wimbledon" AT="" DT="23:10:43" />
+            <T S="073" T="26" D="500" C="17:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="22:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+        <P N="Eastbound - Platform 4" Code="1" Next="0">
+            <T S="043" T="13" D="500" C="1:30" L="Left Wimbledon Park" DE="Wimbledon" AT="" DT="23:10:59" />
+            <T S="072" T="30" D="500" C="5:30" L="Approaching East Putney" DE="Wimbledon" AT="" DT="23:10:43" />
+            <T S="073" T="26" D="500" C="17:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="22:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+    </S>
+    <S Code="WMP" N="Wimbledon Park.">
+        <P N="Eastbound - Platform 1" Code="1" Next="0">
+            <T S="070" T="28" D="1025" C="2:30" L="Approaching Wimbledon" DE="City (via Victoria)" AT="" DT="23:10:23" />
+        </P>
+        <P N="Westbound - Platform 2" Code="0" Next="0">
+            <T S="072" T="30" D="500" C="3:30" L="Approaching East Putney" DE="Wimbledon" AT="" DT="23:10:43" />
+            <T S="073" T="26" D="500" C="16:00" L="Between High Street Kensington and Earls Court" DE="Wimbledon" AT="" DT="23:10:58" />
+            <T S="074" T="26" D="500" C="21:00" L="At Notting Hill Gate Platform 1" DE="Wimbledon" AT="" DT="23:10:45" />
+        </P>
+    </S>
+</ROOT>

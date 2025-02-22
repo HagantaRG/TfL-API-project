@@ -1,0 +1,351 @@
+Station Name,Station Code,Line Code,Result Code
+Baker Street,BST,B,200
+Charing Cross,CHX,B,200
+Edgware Road (Bakerloo),ERB,B,200
+Elephant and Castle,ELE,B,200
+Embankment,EMB,B,200
+Harlesden,HSD,B,200
+Harrow and Wealdstone,HAW,B,200
+Kensal Green,KGN,B,200
+Kenton,KNT,B,200
+Kilburn Park,KPK,B,200
+Lambeth North,LAM,B,200
+Maida Vale,MDV,B,200
+Marylebone,MYB,B,200
+North Wembley,NWM,B,200
+Oxford Circus,OXC,B,200
+Paddington,PAD,B,200
+Piccadilly Circus,PIC,B,200
+Queen's Park,QPK,B,200
+Regent's Park,RPK,B,200
+South Kenton,SKT,B,200
+Stonebridge Park,SPK,B,200
+Warwick Avenue,WAR,B,200
+Waterloo,WLO,B,200
+Wembley Central,WEM,B,200
+Willesden Junction,WJN,B,200
+Bank,BNK,C,200
+Barkingside,BDE,C,200
+Bethnal Green,BNG,C,200
+Bond Street,BDS,C,200
+Buckhurst Hill,BHL,C,200
+Chancery Lane,CYL,C,200
+Chigwell,CHG,C,200
+Debden,DEB,C,200
+Ealing Broadway,EBY,C,200
+East Acton,EAC,C,200
+Epping,EPP,C,200
+Fairlop,FLP,C,200
+Gants Hill,GHL,C,200
+Grange Hill,GRH,C,200
+Greenford,GFD,C,200
+Hainault,HAI,C,200
+Hanger Lane,HLN,C,200
+Holborn,HOL,C,200
+Holland Park,HPK,C,200
+Lancaster Gate,LAN,C,200
+Leyton,LEY,C,200
+Leytonstone,LYS,C,200
+Liverpool Street,LST,C,200
+Loughton,LTN,C,200
+Marble Arch,MAR,C,200
+Mile End,MLE,C,200
+Newbury Park,NEP,C,200
+North Acton,NAC,C,200
+Northolt,NHT,C,200
+Notting Hill Gate,NHG,C,200
+Oxford Circus,OXC,C,200
+Perivale,PER,C,200
+Queensway,QWY,C,200
+Redbridge,RED,C,200
+Roding Valley,ROD,C,200
+Ruislip Gardens,RUG,C,200
+Shepherd’s Bush,SBC,C,200
+Snaresbrook,SNB,C,200
+South Ruislip,SRP,C,200
+South Woodford,SWF,C,200
+St Paul’s,STP,C,200
+Stratford,SFD,C,200
+Theydon Bois,THB,C,200
+Tottenham Court Road,TCR,C,200
+Wanstead,WAN,C,200
+West Acton,WAC,C,200
+West Ruislip,WRP,C,200
+White City,WCT,C,200
+Woodford,WFD,C,200
+Acton Town,ACT,D,200
+Aldgate East,ALE,D,200
+Barking,BKG,D,200
+Barons Court,BCT,D,200
+Becontree,BEC,D,200
+Blackfriars,BLF,D,200
+Bow Road,BWR,D,200
+Bromley-by-Bow,BBB,D,200
+Cannon Street,CST,D,200
+Chiswick Park,CHP,D,200
+Dagenham East,DGE,D,200
+Dagenham Heathway,DGH,D,200
+Ealing Broadway,EBY,D,200
+Ealing Common,ECM,D,200
+Earl’s Court,ECT,D,200
+East Ham,EHM,D,200
+East Putney,EPY,D,200
+Edgware Road (H & C),ERD,D,200
+Elm Park,EPK,D,200
+Embankment,EMB,D,200
+Fulham Broadway,FBY,D,200
+Gloucester Road,GRD,D,200
+Gunnersbury,GUN,D,200
+Hammersmith (District and Picc),HMD,D,200
+High Street Kensington,HST,D,200
+Hornchurch,HCH,D,200
+Kensington (Olympia),OLY,D,200
+Kew Gardens,KEW,D,200
+Mansion House,MAN,D,200
+Mile End,MLE,D,200
+Monument,MON,D,200
+Olympia,OLY,D,200
+Parsons Green,PGR,D,200
+Plaistow,PLW,D,200
+Putney Bridge,PUT,D,200
+Ravenscourt Park,RCP,D,200
+Richmond,RMD,D,200
+Sloane Square,SSQ,D,200
+South Kensington,SKN,D,200
+Southfields,SFS,D,200
+St. James's Park,SJP,D,200
+Stamford Brook,STB,D,200
+Stepney Green,STG,D,200
+Temple,TEM,D,200
+Tower Hill,THL,D,200
+Turnham Green,TGR,D,200
+Upminster,UPM,D,200
+Upminster Bridge,UPB,D,200
+Upney,UPY,D,200
+Upton Park,UPK,D,200
+Victoria,VIC,D,200
+West Brompton,WBT,D,200
+West Ham,WHM,D,200
+West Kensington,WKN,D,200
+Westminster,WMS,D,200
+Whitechapel,WCL,D,200
+Wimbledon,WDN,D,200
+Wimbledon Park,WMP,D,200
+Aldgate,ALD,H,200
+Aldgate East,ALE,H,200
+Baker Street,BST,H,200
+Barbican,BAR,H,200
+Barking,BKG,H,200
+Blackfriars,BLF,H,200
+Bow Road,BWR,H,200
+Bromley-by-Bow,BBB,H,200
+Cannon Street,CST,H,200
+East Ham,EHM,H,200
+Edgware Road (H & C),ERD,H,200
+Embankment,EMB,H,200
+Euston Square,ESQ,H,200
+Farringdon,FAR,H,200
+Gloucester Road,GRD,H,200
+Great Portland Street,GPS,H,200
+Hammersmith,HMS,H,200
+High Street Kensington,HST,H,200
+King's Cross St Pancras,KXX,H,200
+Liverpool Street,LST,H,200
+Mansion House,MAN,H,200
+Mile End,MLE,H,200
+Monument,MON,H,200
+Moorgate,MGT,H,200
+Paddington,PAD,H,200
+Plaistow,PLW,H,200
+Sloane Square,SSQ,H,200
+South Kensington,SKN,H,200
+St. James's Park,SJP,H,200
+Stepney Green,STG,H,200
+Temple,TEM,H,200
+Tower Hill,THL,H,200
+Upton Park,UPK,H,200
+Victoria,VIC,H,200
+West Ham,WHM,H,200
+Westminster,WMS,H,200
+Whitechapel,WCL,H,200
+Baker Street,BST,J,200
+Bermondsey,BER,J,200
+Bond Street,BDS,J,200
+Canada Water,CWR,J,200
+Canary Wharf,CWF,J,200
+Canning Town,CNT,J,200
+Canons Park,CPK,J,200
+Dollis Hill,DHL,J,200
+Finchley Road,FRD,J,200
+Green Park,GPK,J,200
+Kilburn,KIL,J,200
+Kingsbury,KBY,J,200
+London Bridge,LON,J,200
+Neasden,NEA,J,200
+North Greenwich,NGW,J,200
+Queensbury,QBY,J,200
+Southwark,SWK,J,200
+St John’s Wood,SJW,J,200
+Stanmore,STA,J,200
+Stratford,SFD,J,200
+Swiss Cottage,SWC,J,200
+Waterloo,WLO,J,200
+Wembley Park,WPK,J,200
+West Ham,WHM,J,200
+West Hampstead,WHD,J,200
+Westminster,WMS,J,200
+Willesden Green,WLG,J,200
+Aldgate,ALD,M,200
+Amersham,AME,M,200
+Baker Street,BST,M,200
+Barbican,BAR,M,200
+Chalfont and Latimer,CLF,M,200
+Chorleywood,CWD,M,200
+Colliers Wood,CLW,M,200
+Croxley,CRX,M,200
+Eastcote,ETE,M,200
+Euston Square,ESQ,M,200
+Farringdon,FAR,M,200
+Finchley Road,FRD,M,200
+Great Portland Street,GPS,M,200
+Harrow on the Hill,HOH,M,200
+Hillingdon,HDN,M,200
+Ickenham,ICK,M,200
+King's Cross St Pancras,KXX,M,200
+Liverpool Street,LST,M,200
+Moor Park,MPK,M,200
+Moorgate,MGT,M,200
+North Harrow,NHR,M,200
+Northwick Park,NWP,M,200
+Northwood,NWD,M,200
+Northwood Hills,NWH,M,200
+Pinner,PIN,M,200
+Rayners Lane,RLN,M,200
+Rickmansworth,RKY,M,200
+Ruislip,RUI,M,200
+Ruislip Manor,RUM,M,200
+Uxbridge,UXB,M,200
+Watford,WAT,M,200
+Wembley Park,WPK,M,200
+West Harrow,WHR,M,200
+Angel,ANG,N,200
+Archway,ARC,N,200
+Balham,BAL,N,200
+Bank,BNK,N,200
+Belsize Park,BPK,N,200
+Borough,BOR,N,200
+Brent Cross,BTX,N,200
+Burnt Oak,BUR,N,200
+Camden Town,CTN,N,200
+Chalk Farm,CHF,N,200
+Charing Cross,CHX,N,200
+Clapham Common,CPC,N,200
+Clapham North,CPN,N,200
+Clapham South,CPS,N,200
+Colindale,COL,N,200
+Colliers Wood,CLW,N,200
+East Finchley,EFY,N,200
+Edgware,EDG,N,200
+Elephant and Castle,ELE,N,200
+Embankment,EMB,N,200
+Euston,EUS,N,200
+Finchley Central,FYC,N,200
+Golders Green,GGR,N,200
+Goodge Street,GST,N,200
+Hampstead,HMP,N,200
+Hendon Central,HND,N,200
+High Barnet,HBT,N,200
+Highgate,HIG,N,200
+Kennington,KEN,N,200
+Kentish Town,KTN,N,200
+King's Cross St Pancras,KXX,N,200
+Leicester Square,LSQ,N,200
+London Bridge,LON,N,200
+Mill Hill East,MHE,N,200
+Moorgate,MGT,N,200
+Morden,MOR,N,200
+Mornington Crescent,MCR,N,200
+Old Street,OLD,N,200
+Oval,OVL,N,200
+South Wimbledon,SWM,N,200
+Stockwell,STK,N,200
+Tooting Bec,TBE,N,200
+Tooting Broadway,TBY,N,200
+Tottenham Court Road,TCR,N,200
+Totteridge and Whetstone,TOT,N,200
+Tufnell Park,TPK,N,200
+Warren Street,WST,N,200
+Waterloo,WLO,N,200
+West Finchley,WFY,N,200
+Woodside Park,WSP,N,200
+Acton Town,ACT,P,200
+Alperton,ALP,P,200
+Arnos Grove,AGR,P,200
+Arsenal,ARL,P,200
+Barons Court,BCT,P,200
+Boston Manor,BOS,P,200
+Bounds Green,BGR,P,200
+Caledonian Road,CRD,P,200
+Cockfosters,CFS,P,200
+Covent Garden,COV,P,200
+Ealing Common,ECM,P,200
+Earl’s Court,ECT,P,200
+Eastcote,ETE,P,200
+Finsbury Park,FPK,P,200
+Gloucester Road,GRD,P,200
+Green Park,GPK,P,200
+Hammersmith (District and Picc),HMD,P,200
+Hatton Cross,HTX,P,200
+Heathrow Terminal 4,HTF,P,524
+Heathrow Terminal 5,HRV,P,200
+Heathrow Terminals 123,HRC,P,200
+Hillingdon,HDN,P,200
+Holborn,HOL,P,200
+Holloway Road,HRD,P,200
+Hounslow Central,HNC,P,200
+Hounslow East,HNE,P,200
+Hounslow West,HNW,P,200
+Hyde Park Corner,HPC,P,200
+Ickenham,ICK,P,200
+King's Cross St Pancras,KXX,P,200
+Knightsbridge,KNB,P,200
+Leicester Square,LSQ,P,200
+Manor House,MNR,P,200
+North Ealing,NEL,P,200
+Northfields,NFD,P,200
+Oakwood,OAK,P,200
+Osterley,OST,P,200
+Park Royal,PRY,P,200
+Piccadilly Circus,PIC,P,200
+Rayners Lane,RLN,P,200
+Ruislip,RUI,P,200
+Ruislip Manor,RUM,P,200
+Russell Square,RSQ,P,200
+South Ealing,SEL,P,200
+South Harrow,SHR,P,200
+South Kensington,SKN,P,200
+Southgate,SGT,P,200
+Sudbury Hill,SHL,P,200
+Sudbury Town,STN,P,200
+Turnham Green,TGR,P,200
+Turnpike Lane,TPL,P,200
+Uxbridge,UXB,P,200
+Wood Green,WGN,P,200
+Blackhorse Road,BHR,V,200
+Brixton,BRX,V,200
+Euston,EUS,V,200
+Finsbury Park,FPK,V,200
+Green Park,GPK,V,200
+Highbury and Islington,HBY,V,200
+King's Cross St Pancras,KXX,V,200
+Oxford Circus,OXC,V,200
+Pimlico,PIM,V,200
+Seven Sisters,SVS,V,200
+Stockwell,STK,V,200
+Tottenham Hale,TTH,V,200
+Vauxhall,VUX,V,200
+Victoria,VIC,V,200
+Walthamstow Central,WAL,V,200
+Warren Street,WST,V,200
+Bank,BNK,W,200
+Waterlo,WLO,W,200
