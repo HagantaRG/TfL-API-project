@@ -121,6 +121,29 @@ class DBClient:
                     sleep(wait_time * (retry_exponent ** retries))
 
     # NB just have one method that executes *ANY* kind of query. I don't want to think about this further for now.
+    def execute_query(
+            self,
+            query: str,
+            params: list = None,
+            max_retry: int = 5,
+            wait_time=0.5,
+            retry_exponent=1.1
+    ) -> None:
+        for retries in range(max_retry + 1):
+            try:
+                with self.connection.cursor() as cursor:
+                    cursor.execute(query, params)
+                    self.connection.commit()
+                return
+            except Exception as error:
+                if retries == max_retry:
+                    log.error("Max retries reached, raising error")
+                    raise
+                else:
+                    sleep(wait_time * (retry_exponent ** retries))
+                log.error(f"Encountered error in executing database query: {error}, retrying.")
+                self.__exit__(type(error), error, error.__traceback__)
+                self.__enter__()
 
     # Private methods
     def _check_connection(self) -> bool:
