@@ -88,7 +88,7 @@ class DBClient:
 
     @property
     def connection_string(self):
-        return f"host={self.hostname} port={self.port} dnname={self.dbname} user={self.user} password={self.password}"
+        return f"host={self.hostname} port={self.port} dbname={self.dbname} user={self.user} password={self.password}"
 
     # connect method to connect to DB
     def connect(
