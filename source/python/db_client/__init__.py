@@ -1,6 +1,7 @@
 # Import 3rd-party libraries
 import logging
 import os
+from collections.abc import Sequence
 from time import sleep
 from types import TracebackType
 from typing import Literal, Self, overload
@@ -121,10 +122,11 @@ class DBClient:
                     sleep(wait_time * (retry_exponent ** retries))
 
     # NB just have one method that executes *ANY* kind of query. I don't want to think about this further for now.
+    # TODO: Modify this to take advantage of https://www.psycopg.org/psycopg3/docs/basic/adapt.html
     def execute_query(
             self,
             query: str,
-            params: list = None,
+            params: Sequence = None,
             max_retry: int = 5,
             wait_time=0.5,
             retry_exponent=1.1
