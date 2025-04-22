@@ -16,7 +16,7 @@ class TflAPIClient:
     def get_arrivals(
             self,
             stop_point_id: str
-    ):
+    ) -> Response:
         url: str = f"{self.base_url}/StopPoint/{stop_point_id}/Arrivals"
         response: Response = get(
             url=url
@@ -26,7 +26,7 @@ class TflAPIClient:
     def get_modal_disruptions(
             self,
             modes: list[str]
-    ):
+    ) -> Response:
 
         url: str = f"{self.base_url}/Line/Mode/{",".join(modes)}/Disruption"
         response: Response = get(
@@ -40,7 +40,7 @@ class TflAPIClient:
             direction: str,
             exclude_crowding: str = ...,
             service_types: str|list[str] = ...
-    ):
+    ) -> Response:
         url: str = f"{self.base_url}/Line/{line_id}/Route/Sequence/{direction}"
         params = ...
         if (exclude_crowding is not ...) or (service_types is not ...):
