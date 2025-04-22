@@ -34,4 +34,25 @@ class TflAPIClient:
         )
         return response
 
+    def get_stops_sequence(
+            self,
+            line_id: str,
+            direction: str,
+            exclude_crowding: str = ...,
+            service_types: str|list[str] = ...
+    ):
+        url: str = f"{self.base_url}/Line/{line_id}/Route/Sequence/{direction}"
+        params = ...
+        if (exclude_crowding is not ...) or (service_types is not ...):
+            params = {}
+            if exclude_crowding is not ... :
+                params["excludeCrowding"] = exclude_crowding
+            if service_types is not ... :
+                params["serviceTypes"] = service_types
+
+        response: Response = get(
+            url=url,
+            params=params if params is not ... else None
+        )
+        return response
 
