@@ -8,8 +8,8 @@ from pathlib import Path
 from typing import Final
 
 # Import from private libraries
-from toml_reader import Toml
-from db_client import DBClient
+from utils.toml_reader import Toml
+from utils.db_client import DBClient
 
 
 # Define constants
