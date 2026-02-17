@@ -56,3 +56,22 @@ class TflAPIClient:
         )
         return response
 
+    def get_arrivals_for_line(
+            self,
+            line_ids: str|list[str]
+    ) -> Response:
+        url: str = f"{self.base_url}Line/{','.join(line_ids)}/Arrivals"
+        response: Response = get(
+            url=url
+        )
+        return response
+
+    def get_stop_points_for_line(
+            self,
+            train_line_id: str
+    ) -> Response:
+        url: str = f"{self.base_url}/{train_line_id}/StopPoints[?tflOperatedNationalRailStationsOnly]"
+        response: Response = get(
+            url=url
+        )
+        return response
