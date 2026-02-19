@@ -10,7 +10,6 @@ class Train:
 
 @dataclass
 class Stop:
-    adjacent_stops: list[Stop]
     lat: float
     long: float
     lines: list[Line]
@@ -22,4 +21,11 @@ class Stop:
 class Line:
     stops: list[Stop]
     line_name: str
+    routes: list[Route]
+    line_id: str
     ...
+
+@dataclass
+class Route:
+    stops: list[Stop]
+    line_name: str
