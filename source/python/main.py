@@ -1,30 +1,27 @@
-# Import standard modules
-from datetime import datetime
-from time import sleep
-import json
-# Import third-party modules
-from requests import Response
-# Import private modules
-from utils.tfl_api_client import TflAPIClient
-from utils.db_client import DBClient
-from utils.db_schemas import ApiLake
-from configs import DEFAULT_DB_CLIENT
+from source.python.utils.tfl_data_adapter import parse_line, parse_routes
+from source.python.datatypes import Stop, Line, Route
 
-# Initial try -- just have something that keeps running until stopped, that continuously pings ONE endpoint, and shoves
-# that data into the DB.
-tfl_client: TflAPIClient = TflAPIClient()
-db_client: DBClient = DEFAULT_DB_CLIENT
+# Absolute first version goal:
+# draw grid of all stops (cartesian plane is OK)
+# connect points on grid w/ routes (we can ignore the *hellscape* that is the district line for now...)
 
-with db_client as db_connection:
-    while True:
-        # Sample, grabbing from Wimbledon
-        query_time: datetime = datetime.now()
-        response: Response = tfl_client.get_arrivals("940GZZLUWIM")
-        response_json = response.json()
-        db_client.execute_query(
-            query=f"INSERT INTO api_lake ({ApiLake.TIME}, {ApiLake.JSON}, {ApiLake.STATUS_CODE}, {ApiLake.ENDPOINT_URL}) VALUES (%s, %s, %s, %s)",
-            params=(query_time, json.dumps(response_json), response.status_code, response.url)
-        )
-        print("Done!")
-        sleep(30)
-        ...
+line_ids: list[str] = [
+    "waterloo_city",
+    "victoria"
+]
+stop_dict: dict[str, Stop] = {}
+line_dict: dict[str, Line] = {}
+
+lat_max: float = -10000
+lat_min: float = 10000
+lon_max: float = -10000
+lon_min: float = 10000
+
+# This should get all the lines + routes we care about.
+for line_id in line_ids:
+    line_dict[line_id] = parse_line(line_id, stop_dict)
+    parse_routes(line_dict[line_id], stop_dict)
+
+# Draw! NB please normalise the lat-longs so we don't have a ridiculous variance.
+for line in line_dict.values():
+    ...
