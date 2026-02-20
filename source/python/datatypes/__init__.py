@@ -28,4 +28,3 @@ class Line:
 @dataclass
 class Route:
     stops: list[Stop]
-    line_name: str
